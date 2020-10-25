@@ -1,0 +1,2008 @@
+# Galician translation of wesnoth-tb
+#
+#
+# Proxecto Trasno <http://trasno.net>
+#
+# Leandro Regueiro <leandro.regueiro@gmail.com>, 2007, 2008.
+# Adrián Chaves Fernández <adriyetichaves@gmail.com>, 2012, 2013, 2015, 2016.
+# Adrian Chaves <adrian@chaves.io>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wesnoth\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-10-25 18:00 UTC\n"
+"PO-Revision-Date: 2018-04-14 03:30+0100\n"
+"Last-Translator: Adrian Chaves <adrian@chaves.io>\n"
+"Language-Team: Galician <kde-i18n-doc@kde.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"com>\n"
+"adriyetichaves@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:13
+msgid "A Tale of Two Brothers"
+msgstr "Un conto sobre dous irmáns"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:14
+msgid "AToTB"
+msgstr "CDI"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:18
+msgid "Beginner"
+msgstr "Principiante"
+
+# Horseman=Home a cabalo FIXADO
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:18
+msgid "Horseman"
+msgstr "Home a cabalo"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:19
+msgid "Challenging"
+msgstr "Esixente"
+
+# Knight=Cabaleiro FIXADO
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:19
+msgid "Knight"
+msgstr "Cabaleiro"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:21
+msgid ""
+"An evil mage is threatening the small village of Maghre and its inhabitants. "
+"The village’s mage sends to his warrior brother for help, but not all goes "
+"as planned. Can you help?\n"
+"\n"
+msgstr ""
+"Un malvado mago está ameazando a pequena vila de Magre e aos seus "
+"habitantes. O mago da vila solicita a axuda do seu irmán guerreiro, pero non "
+"todo sae segundo o plan. Pódeslles axudar?\n"
+"\n"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:23
+#, fuzzy
+#| msgid "(Novice level, 4 scenarios.)"
+msgid "(Rookie level, 4 scenarios.)"
+msgstr "Nivel principiante, 4 escenarios."
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:30
+msgid "Campaign Design"
+msgstr "Deseño da campaña"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:39
+msgid "Prose and Story Edits"
+msgstr "Prosa e retoques na historia"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:48
+msgid "Campaign Maintenance"
+msgstr "Mantemento da campaña"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:57
+msgid "Artwork and Graphics Design"
+msgstr "Traballo artístico e deseño gráfico"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:73
+msgid "Miscellaneous"
+msgstr "Varios"
+
+#. [entry]
+#: data/campaigns/Two_Brothers/_main.cfg:87
+msgid "And special thanks to everyone else who I forgot to mention."
+msgstr "E especialmente gracias a todos aqueles a quen esquecín mencionar."
+
+#. [scenario]: id=01_Rooting_Out_a_Mage
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:5
+msgid "Rooting Out a Mage"
+msgstr "O desterro dun mago"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:50
+msgid ""
+"The remote freehold of Maghre in the western reaches of the kingdom of "
+"Wesnoth was once a peaceful place, its inhabitants largely unaware of the "
+"comings and goings of the wider world. Wars and the rumor of wars touched "
+"them not, until the day a dark mage settled in the region and began seeking "
+"sacrifices for his evil summonings."
+msgstr ""
+"O remoto territorio de Magre, nos límites occidentais do Reino do Noroeste, "
+"era un lugar pacífico. Os seus habitantes había tempo que non sabían dos "
+"problemas do mundo. As guerras e mailos rumores de guerras non os afectaban, "
+"ata o día no que un mago escuro se asentou na rexión e comezou a buscar "
+"sacrificios para as súas malvadas invocacións."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:54
+msgid ""
+"Skeletons and zombies killed cattle and fired fields. <i>“Fear and obey "
+"Mordak the Mage!”</i> they cried in fell voices as they did their foul "
+"deeds. People vanished from isolated farmsteads. Men and women began to fear "
+"the night, and their children even the bright day. But the nearest lord was "
+"more than a day’s ride distant, and messengers sent to seek his help did not "
+"return."
+msgstr ""
+"Os esqueletos e cadáveres andantes mataban o gando, e prendíanlle lume aos "
+"campos, ao tempo que pronunciaban as palabras «<i>temede e obedecede ao mago "
+"Mordegue</i>». A xente que vivía en casas illadas, lonxe do núcleo da vila, "
+"desaparecía; os que non desaparecían, collíanlle medo á escuridade da noite, "
+"e algúns ata á claridade do día. Pero o cabaleiro máis próximo estaba a un "
+"día a cabalo, e os mensaxeiros que foran na súa procura xamais regresaran."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:58
+msgid ""
+"There was a man named Baran who had shown talent as a mage when he was "
+"young, gone to the great Academy on the Isle of Alduin, and returned to work "
+"his magic in the land where he was born. The people looked to him for help "
+"and leadership. He found weapons half-forgotten from the times of their "
+"sires and grandsires hanging in many houses, and bade the villagers to take "
+"them down and clean and oil them. He set the smiths of Maghre to making "
+"spearheads and ax-blades for the rest."
+msgstr ""
+"Un dos aldeáns, Baran, estivera na academia de magos da Illa de Alduin cando "
+"era mozo, e volvera á vila para seguir estudando a maxia na súa terra natal. "
+"A xente da vila dirixiuse a el en busca de axuda e liderado. O mago díxolles "
+"que buscasen armas nas súas casas, e algúns atopáronas esquecidas nalgún "
+"recuncho dos seus faiados, ou as tiñan colgadas das paredes a modo de "
+"adorno. Armas que pertenceran aos seus antepasados e que había ducias de "
+"anos que non se usaban. Para os que non atoparan armas, o mago pediulle aos "
+"armeiros que traballasen en puntas de lanza e machados."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:62
+msgid ""
+"Now Baran had a brother named Arvith who had also left Maghre to seek his "
+"fortune, and had become the leader of a small band of horsemen who hired out "
+"as guards to merchant caravans. Fortunate it was for all that when Baran was "
+"but an apprentice mage, he had made a pair of amulets for himself and his "
+"brother, with which they might call to each other when in dire need. Baran "
+"sent out that call."
+msgstr ""
+"Baran tiña un irmán, Arvin, que tamén deixara a vila cando era novo, para "
+"coñecer mundo e ir en busca de aventuras. Arvin convertérase no líder dun "
+"pequeno grupo de homes a cabalo que ofrecían os seus servizos a caravanas de "
+"comerciantes. Por sorte para os habitantes da vila, cando aínda era pouco "
+"máis que un aprendiz de mago, Baran fixera un par de amuletos para el e para "
+"o seu irmán, cos que podían chamarse o un ao outro cando for necesario. Así "
+"que o mago fixo uso do seu amuleto."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:66
+msgid ""
+"12 V, 363 YW\n"
+"Excerpt from the journal of Baran of Maghre\n"
+"\n"
+"If I could but face this ‘Mordak’! I think my magic might prove stronger "
+"than his. But he bides in the hills, well-guarded by his servants, and I "
+"muster frightened peasants to fight his minions with blades and sticks. I "
+"need my brother; he always had a better head for battle than I.\n"
+"\n"
+"Will he heed the call? I do not know if he has kept the amulet; we have not "
+"spoken since that evil day at Toen Caric. If he will not come for me, "
+"perhaps he will return to aid our village in its hour of desperate need."
+msgstr ""
+"12 de maio, 363 d.N.\n"
+"Extracto do diario de Baran de Magre.\n"
+"\n"
+"Gustaríame enfrontarme a ese tal «Mordegue»! Creo que a miña maxia podería "
+"resultar máis poderosa que a súa. Pero asentou nos outeiros, ben protexido "
+"polos seus servos, e para pelexar cos seus súbditos eu non consigo reunir "
+"máis que aldeáns asustados, armados con coitelas e paus. Necesito a meu "
+"irmán, as batallas sempre se lle deron mellor que a min.\n"
+"\n"
+"Escoitará o meu chamado? Nin sequera sei se aínda conserva o amuleto, "
+"levamos sen falar desde aquela vez en Toen Carín. Aínda que non veña para "
+"axudarme a min, pode que o faga para axudar á súa vila cando máis o necesita."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:75
+msgid ""
+"Heeding the call of his amulet, Arvith gathered such men as he could and "
+"hurried to Maghre to help Baran."
+msgstr ""
+"En canto escoitou o chamado do amuleto, Arvin reuniu tantos homes como puido "
+"e dirixiuse a présa a Magre para axudar a Baran."
+
+#. [side]
+#. [side]: type=Longbowman, id=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:93
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:66
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:56
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:58
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:111
+msgid "Humans"
+msgstr "Humanos"
+
+#. [side]: type=Dark Sorcerer, id=Mordak
+#. [side]: type=Orcish Warlord, id=Tairach
+#. [side]: type=Dark Sorcerer, id=Rotharik
+#. [side]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:114
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:81
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:131
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:82
+msgid "Enemies"
+msgstr "Inimigos"
+
+#. [side]: type=Dark Sorcerer, id=Mordak
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:119
+msgid "Mordak"
+msgstr "Mordegue"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:146
+msgid "Alwyn"
+msgstr "Algüin"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:147
+msgid "Brent"
+msgstr "Bren"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:148
+msgid "Cadell"
+msgstr "Cadel"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:149
+msgid "Dannen"
+msgstr "Danen"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:150
+msgid "Efran"
+msgstr "Frane"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:151
+msgid "Faren"
+msgstr "Faren"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:154
+msgid "Tarek"
+msgstr "Tareco"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:155
+msgid "Hann"
+msgstr "Enon"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:156
+msgid "Magrid"
+msgstr "Morodo"
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:161
+msgid "Slay Mordak, the evil mage"
+msgstr "Mata a Mordegue, o mago malvado."
+
+#. [objective]: condition=lose
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:165
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:292
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:338
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:143
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:288
+msgid "Death of Arvith"
+msgstr "Morte de Arvin."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:176
+msgid ""
+"Use footpads as fodder to protect your loyal units and attack during the day "
+"to minimize the damage your forces take."
+msgstr ""
+"Usa bandoleiros como escudo para protexes as túas unidades leais e ataca "
+"polo día para minimizar os danos que sofren as túas forzas."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:186
+msgid "Greetings, brother, and welcome home."
+msgstr "Saúdos, irmán, e benvido a casa."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:191
+msgid "Hail."
+msgstr "Ola."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:196
+msgid "Is that all, Arvith? I understand, but..."
+msgstr "Iso é todo canto tes que dicir? Non te culpo, pero…"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:201
+msgid "You called, and I came; be content with that. What ails Maghre?"
+msgstr "Chamaches, e aquí estou; non pidas máis. Cal é o problema?"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:206
+msgid ""
+"A dark mage has come upon us; his creatures call him Mordak. They have been "
+"terrorizing outlying farms, and we fear they may soon attack the village "
+"itself! The villagers of Maghre have taken up weapons but they are not "
+"trained fighters; we need your men, and you to lead them."
+msgstr ""
+"Un mago escuro atacounos. As súas criaturas chámano «Mordegue». Estiveron "
+"aterrorizando á xente das granxas circundantes, e tememos que pronto poidan "
+"atacar a vila. Os aldeáns de Magre fixéronse con armas, pero non teñen "
+"experiencia ningunha con elas. Necesitámosvos a ti e aos teus para que os "
+"lideredes."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:211
+msgid ""
+"I can feel Mordak’s foul touch on the hidden currents of the earth and air. "
+"He is somewhere due north of here, I would say not more than two days’ ride."
+msgstr ""
+"Podo sentir a noxenta man de Mordegue nas correntes ocultas da terra e do "
+"aire. Está ao norte de aquí, diría que a non máis de dous días a cabalo."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:216
+msgid ""
+"All right. I will do this for the village. Can you keep the mage off our "
+"backs?"
+msgstr "Moi ben. Fareino pola xente da vila. Podes protexernos do mago?"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:221
+msgid ""
+"I will go stealthily with a handful of our best scouts and woodsmen. While "
+"you demonstrate against him and kill his creatures, I will try to defeat "
+"Mordak himself with magic at an unguarded moment. You shall be the right "
+"hand, I the left... aye, brother?"
+msgstr ""
+"Irei cun grupo dos nosos mellores exploradores e leñadores. Avanzaremos co "
+"maior sixilo posíbel. Mentres ti o atacas de fronte e acabas coas súas "
+"criaturas, eu intentarei collelo coa garda baixa e derrotalo usando maxia. "
+"Xuntos podemos conseguir o que non conseguiríamos por separado."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:226
+msgid "... Aye. Just make sure you’re there when we need you."
+msgstr "Ben. Ti procura estar aí cando te necesitemos."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:237
+msgid ""
+"Baran should be in position by now. Press them, distract the adept so Baran "
+"can spring his trap!"
+msgstr ""
+"Baran debería estar xa en posición. Atacádeos, distraede ao adepto para que "
+"Baran poida tenderlle a súa trampa!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:248
+msgid "Baran has not made his attack!"
+msgstr "Baran non atacou!"
+
+#. [message]: role=Mercenary
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:253
+msgid "Could he have abandoned us?"
+msgstr "Abandonaríanos?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:258
+msgid ""
+"No... No. This is something else. I’m worried about him... but right now it "
+"means we have to deal with this Mordak ourselves."
+msgstr ""
+"Non… El non. Ten que ser outra cousa. Preocúpame…  Pero agora mesmo iso "
+"significa que debemos ocuparnos nós mesmos dese Mordegue."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:270
+msgid "Argh!"
+msgstr "Argh!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:275
+msgid "Good work, men! But what has become of my brother?"
+msgstr "Bo traballo, homes! Sabe alguén que foi de meu irmán?"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:280
+msgid "Worried about him, are you? E-he-he... hergh... gaargh..."
+msgstr "Estás preocupado por el, non si? He he he… hergh… argh…"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:290
+msgid ""
+"There’s nothing more to be had from this one; we will have to search for "
+"Baran ourselves!"
+msgstr "A este non lle imos sacar máis, teremos que buscar nós mesmos a Baran!"
+
+#. [message]: role=Reporter
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:312
+msgid ""
+"Sir, our scouts report that Baran was seen captured and carried away further "
+"north!"
+msgstr ""
+"Señor, os exploradores informan de que viron como capturaban a Baran e o "
+"levaban ao norte!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:317
+msgid "That they should dare this! We will give chase at once."
+msgstr "Como se atreveron? Debemos perseguilos!"
+
+#. [message]: speaker=Mordak
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:338
+msgid "Your brother’s plan to ambush me has failed. He is our prisoner now."
+msgstr ""
+"O plan do teu irmán para emboscarme fracasou. Agora é o noso prisioneiro."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:343
+msgid ""
+"My brother, kidnapped? I have failed you, Baran! And even now Mordak’s "
+"forces descend upon the village!"
+msgstr ""
+"Meu irmán, raptado? Falleite, Baran! E agora has hostes de Mordegue atacarán "
+"a vila!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:359
+msgid "I hear these creatures are nigh-immune to our weapons, let us see!"
+msgstr ""
+"Escoitei que estas criaturas son case inmunes ás nosas armas, vexámolo!"
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:375
+msgid "That was not so hard!"
+msgstr "Non foi tan difícil!"
+
+#. [scenario]: id=02_The_Chase
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:5
+msgid "The Chase"
+msgstr "A persecución"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:27
+msgid "Arvith and his band rode north in search of his missing brother."
+msgstr "Arvin e os seus dirixíronse ao norte na busca do seu irmán."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:34
+msgid ""
+"16 V, 363 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"We’ve been searching three days for Baran, and turned up nothing. My best "
+"hunch was to head north into the borderlands, where the necromancer’s "
+"minions could safely hide; everywhere else is more farmland. At first I "
+"thought the search might be useless, but late in the first day we found a "
+"set of tracks. Some of them had been made by skeletal feet.\n"
+"\n"
+"We’re close enough to be certain now: those tracks are heading into the Grey "
+"Woods. No one from Maghre or any of the other villages has gone into that "
+"forest in living memory. Stories have been passed down for generations "
+"warning against it. Supposedly the place is haunted by lost souls who hunger "
+"for the living, and anyone who dies there is doomed to join them."
+msgstr ""
+"16 de maio, 363 d.N.\n"
+"Extracto do diario de Arvin de Magre.\n"
+"\n"
+"Levamos tres días buscando a Baran, e nada. O único que se me ocorreu foi "
+"seguir buscando polo norte, na fronteira, onde os súbditos do nigromante se "
+"poden agochar con facilidade. Ao principio non estaba seguro de se "
+"conseguiríamos algo desta vez, pero na tarde do primeiro día atopamos unhas "
+"pegadas, algunhas de esqueleto.\n"
+"\n"
+"Levamos un tempo seguindo as pegadas e cada vez estamos máis seguros de que "
+"levan aos Bosques Grises. Ninguén de Magre ou das vilas dos arredores pisou "
+"nunca eses bosques, que saibamos. Pero todos escoitamos as vellas historias "
+"que advirten do perigo que correrán os que ousen facelo. Disque o lugar está "
+"infestado de almas en pena, e que a alma de todo o que morre alí queda tamén "
+"atrapada para a eternidade."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:43
+msgid ""
+"16 V, 363 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"But I’m past superstitions now; I’ve seen enough of the world to guess at "
+"the truth behind these sorts of tales. The forest is home to elves — "
+"unfriendly ones, if the stories have any basis at all. I worry for my men; "
+"horses don’t fight well in forests, and the elves will be more dangerous in "
+"their own territory. But there are things that need done and questions that "
+"need answered. Something bigger is happening. One necromancer terrorizing "
+"townsfolk is nothing new, but why didn’t his servants scatter when he was "
+"killed? Where are they headed now? And most importantly, why did they take "
+"Baran with them?\n"
+"\n"
+"Besides... I want my brother back."
+msgstr ""
+"16 de maio, 363 d.N.\n"
+"Extracto do diario de Arvin de Magre.\n"
+"\n"
+"Pero xa vin moito mundo, e podo imaxinar que o que ocorre en realidade é que "
+"nos bosques ocúltanse elfos, e non dos amistosos precisamente. Estou algo "
+"preocupado, os nosos cabalos non se manexan moi ben nos bosques, e os elfos "
+"loitarán con vantaxe. Pero temos que facelo se queremos descubrir onde foi "
+"parar meu irmán. Por non falar doutras cuestións maiores que requiren "
+"resposta. Por exemplo, por que non desapareceron os súbditos do nigromante "
+"en canto o derrotamos? Onde se dirixen? E sobre todo, por que levaron a "
+"Baran con eles?\n"
+"\n"
+"Non quero perder a meu irmán."
+
+#. [side]: type=Elvish Rider, id=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:88
+msgid "Elves"
+msgstr "Elfos"
+
+#. [side]: type=Elvish Rider, id=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:93
+msgid "Nil-Galion"
+msgstr "Nilgalion"
+
+#. [side]: type=Dark Adept, id=Muff Toras
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:170
+msgid "Kidnappers"
+msgstr "Raptores"
+
+#. [side]: type=Dark Adept, id=Muff Toras
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:174
+msgid "Muff Toras"
+msgstr "Muntoras"
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:261
+msgid "Fight your way through the woods before the kidnappers escape"
+msgstr "Loita para atravesar os bosques antes de que os raptores escapen."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:278
+msgid "Catch the kidnappers"
+msgstr "Colle aos raptores."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:288
+msgid "Kill the Dark Adept before his reinforcements arrive"
+msgstr "Mata ao adepto escuro antes de que cheguen os reforzos."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:304
+msgid ""
+"The Elvish forces are spread out. Seek to fight them one at a time with "
+"several of your units."
+msgstr ""
+"As forzas dos elfos están repartidas. Intenta enfrontarte a elas de unha en "
+"unha con varias das túas unidades."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:317
+msgid ""
+"Use horsemen or footpads to quickly explore the shrouded woods to locate the "
+"kidnappers."
+msgstr ""
+"Usa homes a cabalo para explorar rapidamente os bosques para localizar aos "
+"raptores."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:332
+msgid ""
+"Separate the Dark Adept from his guards and attack in force for an easy kill."
+msgstr ""
+"Separa o adepto escuro dos seus gardas e ataca con todo para matalo "
+"facilmente."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:375
+msgid ""
+"Come on, men. A stroll through such lovely green woods, what could be finer?"
+msgstr ""
+"Veña homes. Unha camiñada por estes preciosos e verdes bosques, que pode "
+"haber mellor?"
+
+#. [message]: speaker=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:380
+msgid "You there! Halt and explain yourself."
+msgstr "Vós! Detédevos e explicade que facedes aquí."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:385
+msgid "We’re chasing after some men who kidnapped my brother!"
+msgstr "Estamos perseguindo aos que capturaron a meu irmán."
+
+#. [message]: speaker=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:390
+msgid ""
+"Those men told me their prisoner had attempted to murder their master, and "
+"warned that evil men would follow him. Advance no further, or you will die."
+msgstr ""
+"Os homes que pasaron por aquí antes ca vós dixéronme que o seu prisioneiro "
+"intentou asasinar ao seu amo, e avisaron de que o seguirían homes malvados. "
+"Non avancedes máis, ou morreredes."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:395
+msgid ""
+"So much for those ghost stories. Mere elves will not stop me from freeing "
+"Baran!"
+msgstr ""
+"Conque estas son as famosas fantasmas dos bosques. Uns simples elfos non van "
+"impedirme liberar a meu irmán!"
+
+#. [message]: role=Mercenary
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:400
+msgid ""
+"I am glad at least that we will not have to face ghosts. But those elves "
+"will have us at a disadvantage; our horses will not maneuver well in the "
+"trees."
+msgstr ""
+"Alégrome de que non teñamos que enfrontarnos a fantasmas, pero estamos en "
+"desvantaxe contra estes elfos. Os nosos cabalos non están afeitos a galopar "
+"entre árbores."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:405
+msgid ""
+"Bah, just stay on the paths; our spearmen and bowmen can fight in the deeper "
+"woods. We have faced and won through greater perils than those amateurs can "
+"offer."
+msgstr ""
+"Non importa, quedade nos camiños. Os lanceiros e arqueiros poden loitar "
+"perfectamente entre as árbores. Puidemos contra os non mortos, isto non "
+"debería supornos un problema."
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:435
+msgid "I see them! There they are!"
+msgstr "Podo velos! Están aquí!"
+
+#. [message]: speaker=Muff Toras
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:440
+#, fuzzy
+#| msgid ""
+#| "Curses! If they had been an hour slower our master’s reinforcements would "
+#| "already be here to meet us."
+msgid ""
+"Curses! If they had been an hour slower, our master’s reinforcements would "
+"already be here to meet us."
+msgstr "Maldición! Un pouco máis e os reforzos do mestre xa estarían aquí."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:452
+msgid "Come on, men, let’s catch those kidnappers!"
+msgstr "Veña, homes, collamos aos raptores!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:466
+msgid ""
+"Hah! You have captured me, but it will avail you nothing. I sent your "
+"precious brother the mage north with half my men a day since; he will be "
+"safely locked away in our master’s dungeons by now."
+msgstr ""
+"Capturarme non che valerá de nada! Enviei ao teu querido irmán o mago ao "
+"norte coa metade dos meus homes hai xa un día. A estas alturas debe estar xa "
+"engaiolado nos calabozos do amo."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:471
+msgid ""
+"My blade is at your throat. Give us the way to my brother now, or I will "
+"spill your wretched blood on the ground."
+msgstr "Dinos onde levaron a meu irmán se non queres que che corte o pescozo."
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:474
+msgid "Sithrak"
+msgstr "Sidran"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:475
+msgid "Eleben"
+msgstr "Élenen"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:476
+msgid "Jarlom"
+msgstr "Ialon"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:477
+msgid "Hamik"
+msgstr "Hamin"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:481
+msgid "Akranbral"
+msgstr "Acranal"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:482
+msgid "Drakanal"
+msgstr "Dracanal"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:483
+msgid "Xaskanat"
+msgstr "Xáscanan"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:484
+msgid "Katklagad"
+msgstr "Cáladan"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:490
+msgid ""
+"Three days ride to the northeast, in a deserted castle. The passwords to the "
+"guards are $first_password_$first_password and $second_password_"
+"$second_password|."
+msgstr ""
+"Tres días a cabalo ao nordeste, nun castelo abandonado. Os contrasinais para "
+"os gardas son $first_password_$first_password e $second_password_"
+"$second_password|."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:498
+msgid "Bind him and take him with us. If he has played us false, he will die."
+msgstr "Atádeo e levémolo connosco. Se nos enganou, pagarao coa súa vida."
+
+#. [message]: role=Mercenary
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:510
+msgid ""
+"Captain, what are we riding into? I thought you wanted nothing to do with "
+"Baran any more, not since Toen Caric."
+msgstr ""
+"Capitán, para que seguimos? Pensaba que non quería máis nada co seu irmán "
+"despois do de Toen Carín."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:515
+msgid ""
+"I’m no longer sure. What’s between us remains, but knowing someone else has "
+"lain hands on him changes things. Mount up, and let’s get moving."
+msgstr ""
+"Non sei. Non é que agora queira arranxar as cousas con el, pero non podo "
+"deixalo nas mans duns non mortos. Montade, apurémonos."
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:530
+msgid "Brena"
+msgstr "Brena"
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:540
+msgid ""
+"Greetings. I am Brena, a knight errant. I saw you pursuing and fighting the "
+"foul undead. Are there more of them to be destroyed?"
+msgstr ""
+"Parabéns. O meu nome é Brena, son un cabaleiro errante. Vinvos perseguindo e "
+"loitando contra os non mortos. Quedan máis por destruír?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:545
+msgid ""
+"Aye. We think there’s a nest of them north-east of here. They’ve captured my "
+"brother."
+msgstr ""
+"Quedan. Cremos que pode haber un grupo deles asentado ao nordeste de aquí. "
+"Teñen a meu irmán."
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:550
+msgid ""
+"I bear a great hatred towards their kind. I will follow and fight them with "
+"you, if you permit."
+msgstr ""
+"Non me gustan nada os non mortos. Non me importaría acompañarvos e axudarvos "
+"a loitar contra eles, se non vos parece mal."
+
+#. [message]: role=Mercenary
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:555
+msgid "He would only slow us down!"
+msgstr ""
+"Non vai poder seguir o noso ritmo, o único que vai conseguir é atrasarnos!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:560
+msgid "It is my place to decide this."
+msgstr "Aquí son eu o que decide."
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:562
+msgid "Oh, all right then. Come along with us."
+msgstr "Moi ben, acompáñanos."
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:566
+msgid "Thank you. My comrades and I will help you on your noble quest."
+msgstr "Grazas. Os meus camaradas e máis eu axudarémosvos na vosa nobre busca."
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:571
+msgid "I am sorry. We have not the time to spare."
+msgstr "Síntoo, pero non podemos esperarvos, non temos tempo que perder."
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:575
+msgid ""
+"Take this, then, for I see that you are on a quest. My comrades will help "
+"you whenever you call for them."
+msgstr ""
+"Moi ben. Pero acepta polo menos isto. Se necesitas a algún dos meus "
+"camaradas máis adiante, só terás que recrutalos."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:590
+msgid "You receive 70 pieces of gold!"
+msgstr "Recibiches 70 moedas de ouro!"
+
+#. [message]: speaker=Muff Toras
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:613
+msgid "My reinforcements are here!"
+msgstr "Chegaron os reforzos!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:618
+msgid "He escaped us..."
+msgstr "Escapóusenos…"
+
+#. [message]: speaker=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:630
+msgid ""
+"Foolish human, you have killed me but you will not catch the undead in time. "
+"I have fulfilled my contract, and will be reanimated soon to become a lord "
+"of their armies."
+msgstr ""
+"Serás parvo! Matarme non te permitirá coller aos non mortos a tempo. Cumprín "
+"a miña misión, e non han tardar en reanimarme e converterme en señor dos "
+"seus exércitos."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:640
+msgid "Follow their back trail!"
+msgstr "Seguide o seu rastro!"
+
+#. [scenario]: id=03_Guarded_Castle
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:5
+msgid "Guarded Castle"
+msgstr "O castelo"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:26
+msgid ""
+"19 V, 363 YW\n"
+"Excerpt from the journal of Rotharik the Clanless\n"
+"\n"
+"The last of Mordak’s servants arrived this morning bearing the news of his "
+"death, as well as a bundle so well-bound it was barely recognizable as a "
+"man. Mordak was always reckless. This whole desperate scheme was his, and I "
+"suppose I could blame him for everything that we have suffered through if it "
+"still mattered. It was he who brought the wrath of the orcs down on us, too. "
+"But all the same, he managed to accomplish what he set out to do. I still "
+"cannot believe the finality of what has happened; until now we had always "
+"managed to make it through somehow.\n"
+"\n"
+"We had hoped to deliver the mage to Tairach in return for our lives. I do "
+"not know what the warlord wants with this man, but he matches the "
+"description. I suppose that Mordak’s plan would have worked perfectly if not "
+"for the appearance of the horse warriors. Now they are coming here, led by a "
+"man rumored to be this mage’s brother. If that is true, he will stop at "
+"nothing, no more than would I if they held Mordak."
+msgstr ""
+"19 de maio, 363 d.N.\n"
+"Extracto do diario de Rodarin “O solitario”.\n"
+"\n"
+"O último dos servos de Mordegue chegou esta mañá, coas novas de que o adepto "
+"morrera, e cun home. Mordegue sempre foi un incauto. A culpa é toda súa e do "
+"seu maldito plan, e miña por facerlle caso. Foi tamén pola súa culpa que os "
+"orcos nos atacaron. Pero ata o de agora conseguira saírse sempre coa súa, "
+"cústame crer que acabaron con el.\n"
+"\n"
+"Planeábamos entregarlle o mago a Tairan a cambio das nosas vidas. Non sei "
+"para que o quere o señor da guerra, pero polo menos sei que collemos ao home "
+"que era, coincide á perfección coa súa descrición. Supoño que o único punto "
+"débil no plan de Mordegue foron os homes a cabalo. E se os rumores son "
+"certos, lidéraos o irmán do mago, así que nada o deterá, como nada me "
+"detería a min se alguén tivese preso a Mordegue."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:34
+msgid ""
+"19 V, 363 YW\n"
+"Excerpt from the journal of Rotharik the Clanless\n"
+"\n"
+"I have done what I can to fortify this dilapidated castle. The orcs who came "
+"with us stand guard at the gates, and I am gathering all of my servants to "
+"me in the inner sanctum. But ill fate awaits. Whether I defeat this horse-"
+"warrior or no, the orcs will still come for me; they have been scouring the "
+"borderlands and raiding the northern farm country in search of us.\n"
+"\n"
+"Yet for some reason I fear these brothers more. If Mordak were here it would "
+"be different, but we are broken... and these two men are whole. In each "
+"other, in the ties that bind them, they have strength."
+msgstr ""
+"19 de maio, 363 d.N.\n"
+"Extracto do diario de Rodarin “O solitario”.\n"
+"\n"
+"Fixen canto está nas miñas mans para fortificar este castelo. Os orcos que "
+"nos acompañaron protexen as portas, e os meus servos protexeranme no "
+"santuario. Pero as cousas non pintan ben para min. Consiga ou non derrotar "
+"aos homes a cabalo, os orcos hanme perseguir. Xa estiveron explorando a "
+"fronteira na nosa busca.\n"
+"\n"
+"Pero algo me di que debo ter máis coidado cos irmáns. Se Mordegue estivese "
+"aquí a cousa sería distinta. Pero meu irmán xa non está ao meu lado, e eles "
+"téñense o un ao outro."
+
+#. [side]: type=Dark Sorcerer, id=Rotharik
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:86
+msgid "Rotharik"
+msgstr "Rodarin"
+
+#. [unit]: role=Guard, id=Guard_leader, type=Assassin
+#. [unit]: role=Guard, type=Bandit
+#. [unit]: role=Guard2, id=Guard2_leader, type=Rogue
+#. [unit]: role=Guard2, type=Thug
+#. [unit]: role=Guard2, type=Bandit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:94
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:102
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:111
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:119
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:583
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:593
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:602
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:612
+msgid "Guard"
+msgstr "Garda"
+
+#. [unit]: id=Knago-Brek, type=Orcish Warrior
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:138
+msgid "Knago-Brek"
+msgstr "Nágobren"
+
+#. [unit]: type=Orcish Grunt
+#. [unit]: type=Orcish Warrior
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:146
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:154
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:163
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:171
+msgid "Castle Guard"
+msgstr "Garda do castelo"
+
+#. [time]: id=indoors_dark_castle
+#. similar string in the wesnoth-help textdomain
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:236
+msgid "Indoors (dark castle)"
+msgstr ""
+
+#. [time]: id=indoors_dark_castle_lit
+#. similar string in th4e wesnoth-help textdomain
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:252
+msgid "Indoors (lit)"
+msgstr ""
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:308
+msgid "Rescue Baran"
+msgstr "Rescata a Baran."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:320
+msgid "Kill the dark sorcerer to get the cell key"
+msgstr "Mata ao feiticeiro escuro para conseguir a chave da cela."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:334
+msgid "Move Arvith to the cell with his brother to free him"
+msgstr "Leva a Arvin á cela na que gardan ao seu irmán e libérao."
+
+#. [objective]: condition=lose
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:347
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:147
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:292
+msgid "Death of Baran"
+msgstr "Morte de Baran."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:359
+msgid ""
+"When facing an unknown situation, take into account details from story and "
+"dialog to inform your strategy."
+msgstr ""
+"Ao enfrontarte a unha situación descoñecida, ten en conta detalles da "
+"historia e dos diálogos para deseñar a túa estratexia."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:368
+msgid ""
+"The dark sorcerer is a strong unit; attack him with multiple units at once "
+"and try to force him off his keep."
+msgstr ""
+"O feiticeiro escuro é unha unidade forte; atácao con varias unidades ao "
+"mesmo tempo e intenta obrigalo a saír da súa fortaleza."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:378
+msgid ""
+"Markings or decorations on hexes may indicate something to be found. If you "
+"can, it is usually a good idea to investigate."
+msgstr ""
+"As marcas ou decoracións nos hexágonos poden indicar que hai algo por "
+"descubrir. Investigalo adoita ser unha boa idea, se podes facelo."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:415
+msgid ""
+"Arvith and his men halt outside of the castle, gazing for a moment at the "
+"hulking mass of stone looming in the fog. There is movement in the mist."
+msgstr ""
+"Arvin e os seus homes detivéronse ás portas do castelo, admirando por uns "
+"momentos aquela xigantesca montaña de pedra. De súpeto, algo saíu da néboa."
+
+#. [message]: speaker=Guard_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:420
+msgid "Halt! Friend or foe? Give the password."
+msgstr "Alto aí! Amigo ou inimigo? Dádeme o contrasinal."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:425
+msgid "The password is"
+msgstr "O contrasinal é"
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:428
+msgid "Sithrak!"
+msgstr "Sidran!"
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:431
+msgid "Eleben!"
+msgstr "Élenen!"
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:434
+msgid "Jarlom!"
+msgstr "Ialon!"
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:437
+msgid "Hamik!"
+msgstr "Hamin!"
+
+#. [message]: speaker=Guard_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:450
+msgid "Pass, friend."
+msgstr "Pasa, amigo."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:465
+msgid ""
+"The adept didn’t lead us astray after all. I’ll keep my word, distasteful as "
+"it may be; cut him loose, and let’s be rid of him."
+msgstr "O adepto cumpriu a súa palabra. Deixádeo marchar."
+
+#. [message]: speaker=Guard_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:476
+msgid "Wrong! Die!"
+msgstr "Incorrecto! Morre!"
+
+#. [message]: speaker=Knago-Brek
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:494
+#, fuzzy
+#| msgid ""
+#| "Haha! We not kill people for long time. Weapon wants blood. We now kill "
+#| "humans!!"
+msgid ""
+"Haha! We not kill people for long time. Weapon wants blood. We now kill "
+"humans!"
+msgstr ""
+"Ha ha! Levabamos tempo sen matar a ninguén. Nada como uns humanos para "
+"volver afacerse!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:499
+#, fuzzy
+#| msgid ""
+#| "My sword-arm has a say in who will do the dying. Come on, men, let’s kill "
+#| "some orcs."
+msgid ""
+"My sword-arm shall have a say in who will do the dying. Come on, men, let’s "
+"kill some orcs."
+msgstr "Xa veremos quen morre e quen sobrevive. A polos orcos, homes!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:511
+msgid "One less braggart orc in the world."
+msgstr "Un noxento orco menos en Irïdia."
+
+#. [message]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:520
+msgid "Captain, what are <i>orcs</i> doing this far south?"
+msgstr "Capitán, como é que hai <i>orcos</i> tan ao sur?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:525
+msgid "Good question. Perhaps my brother will have found out."
+msgstr "Boa pregunta. Pode que meu irmán teña a resposta."
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:625
+msgid "Are you our relief arriving? Does this mean we get to leave here now?"
+msgstr "Sodes os substitutos, non? Xa era hora!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:630
+msgid "Um, yes. Fine. You can go."
+msgstr "Somos, podedes marchar xa."
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:635
+msgid "Um, you’re supposed to give the password."
+msgstr "Non esqueces algo? Tedes que darnos o contrasinal."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:640
+msgid "Oh, of course. I had nearly forgotten."
+msgstr "Ah, si, non sei onde teño a cabeza."
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:643
+msgid "Akranbral!"
+msgstr "Acranal!"
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:646
+msgid "Drakanal!"
+msgstr "Dracanal!"
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:649
+msgid "Xaskanat!"
+msgstr "Xáscanan!"
+
+#. [option]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:652
+msgid "Katklagad!"
+msgstr "Cáladan!"
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:665
+msgid "Thanks! Irritating little formality, isn’t it?"
+msgstr ""
+"Exacto. Xa sabes que aos de arriba non lles gusta que nos saltemos estas "
+"formalidades."
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:675
+msgid "That’s the wrong password! These aren’t our relief! Get them!"
+msgstr "Ese non é o contrasinal! Non son os nosos substitutos, collédeos!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:683
+msgid ""
+"I think I should better support my men at the front to make sure we can free "
+"my brother."
+msgstr ""
+"Creo que será mellor que axude aos meus homes na vangarda para asegurarme de "
+"que liberamos a meu irmán."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:695
+msgid "Your hand or Tairach’s, death is still death... (argh)"
+msgstr ""
+"Estou morto de todos xeitos, se non me matases ti mataríame Tairan… Argh…"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:705
+msgid "‘Tairach’? Who or what is Tairach?"
+msgstr "«Tairan»? Quen é ese?"
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:710
+msgid "There’s a key in his robes."
+msgstr "Leva unha chave."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:720
+msgid ""
+"That may well be the key to the cell they’re holding Baran in! I will take "
+"it."
+msgstr "Collédea, seguro que é a da gaiola de Baran."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:748
+msgid "It may be important, I best take it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:766
+msgid "This castle seems as dark as a cave!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:772
+msgid ""
+"This castle is under a constant, <i>chaotic</i> time of day (equivalent to "
+"permanent night), except for illuminated hexes adjacent to lit stone walls "
+"(neutral time of day). Place your units carefully, as your troops will be "
+"weaker and enemy units stronger."
+msgstr ""
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:792
+msgid "Look what I have found in here! I can count a hundred pieces of gold."
+msgstr "Mirade o que atopei aquí! Debe haber un cento de moedas de ouro."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:806
+msgid "Look what I have found in here! I can count fifty pieces of gold."
+msgstr "Mirade o que atopei aquí! Debe haber unhas cincuenta moedas de ouro."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:845
+msgid "I found Baran. He is in this cell."
+msgstr "Atopei a Baran. Está nesta cela."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:856
+msgid "It’s good to see you, Arvith."
+msgstr "Alégrome de volver a verte, Arvin."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:861
+msgid "And you too, brother."
+msgstr "O mesmo digo, irmán."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:867
+msgid ""
+"You must be one of Arvith’s men. Please help me get out of this dungeon."
+msgstr "Debes ser un dos homes de Arvin. Axúdame a saír deste calabozo."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:874
+msgid ""
+"The accursed dark sorcerer Rotharik has imprisoned me behind this magically "
+"enhanced iron gate. It can only be opened with the correct key. You must get "
+"it from him to free me."
+msgstr ""
+"O maldito feiticeiro escuro Rodarin pechoume tras esta porta de ferro "
+"máxica. Só unha chave pode abrila. Debedes quitarlla para poder liberarme."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:886
+msgid ""
+"I have already met, and killed, the sorcerer. Is this the key to which you "
+"referred?"
+msgstr "Xa me encontrei co feiticeiro, e mateino. É esta a chave da que falas?"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:890
+msgid ""
+"Yes, it is. Come, unlock this cell door, and let us depart this place, "
+"brother!"
+msgstr "É, abofé que a é. Ven, abre a porta da cela e saiamos de aquí, irmán!"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:944
+msgid "Thank you for saving me. I... was not certain you would come."
+msgstr "Grazas por salvarme. Xa case perdera toda esperanza."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:949
+msgid "Have you no faith in your brother, Baran?"
+msgstr "Acaso non tes fe no teu irmán?"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:954
+msgid ""
+"It’s not that. Perhaps I deserved to rot here. I failed you. I failed you "
+"again."
+msgstr ""
+"Non é iso. Ao mellor merecía podrecer nesta cela. Falleite. Volvinte fallar."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:959
+msgid ""
+"That is as may be. But you are my brother still. And... I never doubted you "
+"would have come for me."
+msgstr ""
+"Así é. Pero segues sendo meu irmán. E sei que, de ser ao revés, ti tamén "
+"virías a rescatarme."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:964
+msgid ""
+"It was no great trial, after all. A few elves, one or two dark sorcerers, a "
+"gang of orcs and some undead. Really just a day’s work for the company."
+msgstr ""
+"Ademais, non foi para tanto, uns poucos elfos, un ou dous feiticeiros "
+"escuros, un feixe de orcos e algúns non mortos. En fin, o noso día a día."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:969
+msgid "Thank you for coming to my aid. Let us return to the village."
+msgstr "Grazas por vires por min. Agora, volvamos á vila."
+
+#. [unit]: id=Rotharik, type=Orcish Assassin
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:1003
+msgid "Minion of Tairach"
+msgstr "Subordinado de Tairan"
+
+#. [message]: speaker=Rotharik
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:1015
+msgid "You are too late! Your brother is already dead! Muahahaha...!"
+msgstr "Chegaches tarde! Teu irmán xa morreu! Mua ha ha ha…"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:1020
+msgid "Argh!!"
+msgstr "Argh!"
+
+#. [scenario]: id=04_Return_to_the_Village
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:5
+msgid "Return to the Village"
+msgstr "De volta á vila"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:26
+msgid ""
+"27 V, 363 YW\n"
+"Excerpt from the journal of Baran of Maghre\n"
+"\n"
+"Almost home now. The last week has been full of mixed feelings for me — "
+"blissful and difficult by turns. It was wonderful to be out of that dungeon "
+"cell and in the sunlight again without the threat of death or worse hanging "
+"over my head... but with that behind me, I turned to the almost equally "
+"daunting task of making amends with my brother.\n"
+"\n"
+"Arvith had largely forgiven me by the time he freed me from my cell. All the "
+"same, it has taken all of the past week for us to rebuild the sense of "
+"comfort in each other we once had. It is fortunate that we have been able to "
+"take our time getting back — we gave the Grey Woods a wide berth, and on our "
+"way around it we traveled through some truly beautiful countryside. It has "
+"given us plenty of time to talk."
+msgstr ""
+"27 de maio, 363 d.N.\n"
+"Extracto do diario de Baran de Magre.\n"
+"\n"
+"Xa case estamos de volta. Levo unha semana difícil. Por unha banda, alégrome "
+"de estar fóra daquel calabozo, sen saber en ningún momento que ía ser de "
+"min, se me matarían ou algo peor. Pero agora teño que soportar tamén un "
+"peso: o de arranxar as cousas con meu irmán.\n"
+"\n"
+"Arvin xa me perdoara para cando me liberou. Pero durante toda esta semana "
+"custounos moito estar o un cando a outro, aínda resulta raro para nós. "
+"Alégrome de que nos tomásemos o noso tempo para volver. Tempo dabondo para "
+"poder falar tranquilamente."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:34
+msgid ""
+"27 V, 363 YW\n"
+"Excerpt from the journal of Baran of Maghre\n"
+"\n"
+"Though I am more at ease now, my thoughts often turn back to Toen Caric. We "
+"should have been able to repel the orcs without great loss — the pincer "
+"attack Arvith devised would surely have carried the day but for me. It was "
+"reckless of me to leave my men behind — I wounded the warlord and forced him "
+"to flee the field, but the cost far outweighed the gain. Those under my "
+"command could have been saved if I had remained with them.\n"
+"\n"
+"I can hardly blame Arvith for having taken their deaths ill, and I can never "
+"undo the wrong that I have done, but I suppose that time heals some things. "
+"We return to the village as brothers once more.\n"
+"\n"
+"But I am still troubled. I wonder... is this sense of foreboding I feel "
+"merely a remnant of my time locked away in that dungeon, or is it a sign of "
+"something real?"
+msgstr ""
+"27 de maio, 363 d.N.\n"
+"Extracto do diario de Baran de Magre.\n"
+"\n"
+"Aínda que xa o levo mellor, de vez en cando aínda penso en Toen Carín. "
+"Estábamos en situación de repeler aos orcos sen apenas sufrir baixas, só "
+"tiñamos que seguir o plan de Arvin. Pero a min non me acababa de convencer. "
+"Fixen mal en deixar aos meus homes atrás. Conseguín ferir ao xefe e forzalo "
+"a retirarse do campo de batalla, pero a un alto prezo. Os homes que estaban "
+"ás miñas ordes estarían todos vivos se non fose por min.\n"
+"\n"
+"Non podo culpar a Arvin por anoxarse comigo, e non podo volver atrás e "
+"cambiar o que fixen, pero supoño que o tempo cura as feridas. Unha vez máis, "
+"volvemos á vila como irmáns."
+
+#. [side]: type=Orcish Warlord, id=Tairach
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:87
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:56
+msgid "Tairach"
+msgstr "Tairan"
+
+#. [side]: type=Longbowman, id=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:116
+msgid "Reeve Hoban"
+msgstr "Conselleiro Loban"
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:139
+msgid "Find out what is happening in the village"
+msgstr "Descubre o que está a pasar na vila."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:155
+msgid ""
+"Recruit or Recall some high-move units to be able to see as far as possible "
+"through the fog for approaching units."
+msgstr ""
+"Recruta ou reincorpora algunhas unidades de gran movilidade para poder ver o "
+"máis lonxe posíbel as unidades que se acheguen desde a néboa."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:171
+msgid ""
+"There. The village is just across those hills, and already I see men coming "
+"to greet us!"
+msgstr ""
+"Alá. A súa vila está xusto ao outro lado deses outeiros, xa vexo xente "
+"aproximarse a saudarnos!"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:176
+msgid ""
+"No, they are fleeing from something. We must find out what is happening over "
+"there!"
+msgstr ""
+"Non veñen a saudarnos, foxen de algo. Temos que descubrir que está pasando "
+"na vila!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:181
+msgid "Men! Ready your arms!"
+msgstr "Homes, ás armas!"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:186
+msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
+msgstr ""
+"Debemos atopar ao conselleiro Loban. Pode que el saiba o que está ocorrendo."
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:201
+msgid "We’re almost there!"
+msgstr "Xa case chegamos!"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:206
+msgid "That warlord! It’s..."
+msgstr "Ese señor da guerra é…"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:211
+msgid "Yes, I’d know that face anywhere. Especially after what you did to it."
+msgstr ""
+"Si, recoñezo ese rostro. Especialmente despois da marca que lle deixaches."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:216
+msgid "The warlord from Toen Caric."
+msgstr "O señor da guerra de Toen Carín."
+
+#. [message]: speaker=Tairach
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:221
+msgid "You! The mage who scarred me with fire! KILL THEM!"
+msgstr "Es ti! O mago que me marcou a cara con lume! <b>Matádeos!</b>"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:226
+msgid "Let’s finish what we started, brother."
+msgstr "Rematemos o que comezamos, irmán."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:231
+msgid "Aye. I’ll be the right arm, and you’ll be the left. Let’s go!"
+msgstr "Si. Ombro con ombro, vamos!"
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:250
+msgid "I am glad to see you returned."
+msgstr "Alégrome de verte de volta."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:255
+msgid "No gladder than I am to be here. But what has happened to Maghre?"
+msgstr "Alégrome de estar aquí. Pero que lle ocorreu a Magre?"
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:260
+msgid ""
+"Soon after you departed we were beset by orcs. With half the men of Maghre "
+"gone, we could not stop them."
+msgstr ""
+"Pouco despois de que vos fósedes, os orcos atacáronnos. Coa metade dos homes "
+"fóra, non puidemos detelos."
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:265
+msgid ""
+"The orcish warlord aims to enslave us. We will not be able to hold out for "
+"much longer."
+msgstr ""
+"O señor da guerra orco quere escravizarnos. Non poderemos resistir moito "
+"máis."
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:270
+msgid ""
+"Have a care, his men are fell fighters and have killed many. Very few remain "
+"who can bear arms, but I will send them to aid you in battle."
+msgstr ""
+"Ten coidado, os seus homes son fortes e xa mataron a moitos. Moi poucos de "
+"nós quedan que poidan soster unha arma, pero enviareivos aos que queden para "
+"que vos axuden a loitar."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:284
+msgid "Slay the Orcish Warlord to free the village"
+msgstr "Mata ao señor da guerra orco para liberar a vila."
+
+#. [objectives]
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:300
+msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
+msgstr ""
+"Podes usar a fortaleza do conselleiro Loban para recrutar ou reincorporar "
+"unidades adicionais."
+
+#. [message]: speaker=Tairach
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:341
+msgid "Today, you shall pay for disfiguring my face, mage!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:346
+msgid ""
+"I have already paid with the lives of my men at Toen Caric. It is time I "
+"righted that mistake and finished this once and for all."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:355
+msgid ""
+"It is finished. We’ve defeated him at last. It was good to have you at my "
+"side, Baran."
+msgstr ""
+"Acabou. Derrotámolo por fin. Alégrome de que estiveses canda min nesta "
+"batalla, Baran."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:360
+msgid ""
+"So much has been destroyed. It will be difficult to repair all that the orcs "
+"and undead have wrecked. And they could come again."
+msgstr ""
+"Destruíuse moito. Será difícil reparar todo o que estragaron os orcos e "
+"mailos non mortos. E non podemos descartar que volvan aparecer por estar "
+"terras."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:365
+msgid ""
+"I must go back to earning my living. But we have our amulets, little "
+"brother. If you are beset again, I will come."
+msgstr ""
+"Eu debo marchar, o meu sitio non está aquí. Pero temos os amuletos. Se "
+"volven atacar, regresarei. Xuntos defenderemos a vila."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:383
+msgid "I don’t think we can rescue anyone from these villages. It is too late."
+msgstr ""
+"Non creo que poidamos rescatar a ninguén desas vilas. É demasiado tarde."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:388
+msgid "I was too weak to protect these people. Oh, why did this happen to me?!"
+msgstr "Non conseguín protexer á miña xente. Por que a min?"
+
+#. [scenario]: id=05_Epilogue
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:5
+msgid "A Tale of Two Brothers — Epilogue"
+msgstr "Epílogo"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:18
+msgid ""
+"22 IX, 365 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"Maghre is looking much better than the last time I saw it. Baran has done "
+"wonders in two years. The village is rebuilt, and the surrounding farmlands "
+"are restored and reoccupied. Despite my brother’s worries, our people have "
+"faced no new threats in that time.\n"
+"\n"
+"It has been more difficult to stay away in those two years, but I have my "
+"calling and Baran has his, and we have had little opportunity to meet again. "
+"But as the company and I are passing through this part of the kingdom with a "
+"new patron, I have asked leave of him to visit my brother and he gave it."
+msgstr ""
+"22 de setembro, 365 d.N.\n"
+"Extracto do diario de Arvin de Magre.\n"
+"\n"
+"Magre ten moita mellor pinta que a última vez que a vin. Baran obrou "
+"marabillas estes dous últimos anos. A vila foi reconstruída, e as granxas "
+"dos seus arredores tamén. A pesar dos temores de meu irmán, non volveu haber "
+"ningún ataque de momento.\n"
+"\n"
+"Non foi fácil estar lonxe da vila este tempo, pero meu irmán ten os seus "
+"deberes, e eu os meus, así que non tivemos moitas ocasións de vernos. Pero "
+"agora que eu e os meus homes pasamos por esta parte do reino ás ordes dun "
+"novo patrón, solicitei permiso para facer unha parada na vila."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:27
+msgid ""
+"22 IX, 365 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"This patron is, of all things, an elf. I never thought I’d befriend one, but "
+"he is less arrogant than the rest. Kalenz, he calls himself. He’s seen too "
+"much; I can tell that just by meeting his eyes. I think we will have to work "
+"for our pay soon.\n"
+"\n"
+"In the meantime, though, it’s good to relax and enjoy the peace."
+msgstr ""
+"22 de setembro, 365 d.N.\n"
+"Extracto do diario de Arvin de Magre.\n"
+"\n"
+"E quen o ía dicir, resulta que o noso novo patrón é un elfo. Pero non é tan "
+"arrogante como o resto. Cälén, que é como se chama, leva vivido moito tempo "
+"e visto moitas cousas. Nótaselle nos ollos. Creo que non imos tardar en "
+"loitar para gañarnos a paga.\n"
+"\n"
+"Pero ata que chegue o momento, hai que relaxarse e gozar destes momentos de "
+"paz."
+
+#: data/campaigns/Two_Brothers/utils/characters.cfg:6
+msgid "Arvith"
+msgstr "Arvin"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/utils/characters.cfg:21
+msgid "All is lost now that I am dead..."
+msgstr "Todo está perdido agora que estou morto…"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/utils/characters.cfg:39
+msgid "It is over, I am vanquished."
+msgstr "Estou acabado."
+
+#. [unit]: id=Baran, type=Red Mage
+#: data/campaigns/Two_Brothers/utils/characters.cfg:128
+msgid "Baran"
+msgstr "Baran"
+
+#: data/campaigns/Two_Brothers/utils/macros.cfg:4
+msgid "Hint:"
+msgstr "Consello:"
+
+#~ msgid "$first_password_1|!"
+#~ msgstr "$first_password_1|."
+
+#~ msgid "$first_password_2|!"
+#~ msgstr "$first_password_2|."
+
+#~ msgid "$first_password_3|!"
+#~ msgstr "$first_password_3|."
+
+#~ msgid "$first_password_4|!"
+#~ msgstr "$first_password_4|."
+
+#~ msgid "$second_password_1|!"
+#~ msgstr "$second_password_1|."
+
+#~ msgid "$second_password_2|!"
+#~ msgstr "$second_password_2|."
+
+#~ msgid "$second_password_3|!"
+#~ msgstr "$second_password_3|."
+
+#~ msgid "$second_password_4|!"
+#~ msgstr "$second_password_4|."
+
+#~ msgid "Everything is lost now that I am dead..."
+#~ msgstr "Todo está perdido agora que morrín…"
+
+#~ msgid "Irongate"
+#~ msgstr "Porta de ferro"
+
+#~ msgid "Arne"
+#~ msgstr "Arne"
+
+#~ msgid "Bjarn"
+#~ msgstr "Bjarn"
+
+#~ msgid "Fargus"
+#~ msgstr "Fargus"
+
+#~ msgid "Erik"
+#~ msgstr "Erik"
+
+#~ msgid "Heine"
+#~ msgstr "Heine"
+
+#~ msgid "Magnus"
+#~ msgstr "Magnus"
+
+#~ msgid "Councillor Hoban"
+#~ msgstr "Conselleiro Hoban"
+
+#~ msgid "Greetings, my brother! How may my men and I be of aid?"
+#~ msgstr "Saúdos, irmán! Como che podemos axudar eu e mailos meus homes?"
+
+#~ msgid ""
+#~ "I will lead my men, and such villagers as can keep up with us, north to "
+#~ "slay this Mordak! What will you do?"
+#~ msgstr ""
+#~ "Guiarei ós meus homes, e ós viláns que poidan vir connosco, ó norte para "
+#~ "matar a ese Mordak! Que vas facer ti?"
+
+#, fuzzy
+#~ msgid ""
+#~ "The pursuit had already run for several days when the pursuers came to "
+#~ "the bounds of the huge forest known as the Grey Woods. Ancient tales "
+#~ "warned of lost souls haunting the wood, hunting and killing anyone brave "
+#~ "enough to enter it."
+#~ msgstr ""
+#~ "A persecución xa durara varios días cando os perseguidores chegaron ós "
+#~ "límites do gran bosque coñecido coma os Bosques Grises. Antigas lendas "
+#~ "advertían sobre almas perdidas que roldaban polo bosque, cazando e "
+#~ "matando a tódolos que ousaban entrar nel."
+
+#~ msgid ""
+#~ "Heedless of those rumors, Arne followed them. His only worry was that his "
+#~ "horsemen would be at disadvantage if attacked in the forest."
+#~ msgstr ""
+#~ "Sen facer caso deses rumores, Arne seguiunos. A súa única preocupación "
+#~ "era que os seus cabaleiros estarían en desvantaxe se os atacaban no "
+#~ "bosque."
+
+#~ msgid "Sounds of a scuffle were heard from the forest."
+#~ msgstr "Óense sons de loita no bosque."
+
+#~ msgid ""
+#~ "It is whispered that hungry ghosts rule this forest, and kill everyone "
+#~ "who dares to enter."
+#~ msgstr ""
+#~ "Coméntase que fantasmas famentos gobernan este bosque, e que matan a todo "
+#~ "aquel que ousa entrar nel."
+
+#, fuzzy
+#~ msgid ""
+#~ "Arne’s men arrived at the castle and were immediately challenged by some "
+#~ "guards."
+#~ msgstr ""
+#~ "Os homes de Arne chegaron ó castelo e foron desafiados inmediatamente por "
+#~ "algúns dos gardas."
+
+#~ msgid "Nooo! This is the end..."
+#~ msgstr "Nooon! Esta é a fin..."
+
+#, fuzzy
+#~ msgid ""
+#~ "Good to see you, Arne. Now can you get me out of this dungeon, please?"
+#~ msgstr "Alégrome de verte, Arne. Podemos saír agora deste calabozo?"
+
+#~ msgid "Finally the warlord is killed. Now you can go back to Maghre."
+#~ msgstr "Por fin o Señor da Guerra está morto. Agora podes volver a Maghre."
+
+#, fuzzy
+#~ msgid ""
+#~ "It took years to rebuild the village and restore the surrounding farms. "
+#~ "The people of Maghre had to work very hard, but felt better knowing "
+#~ "Arne’s men would be their firm allies in troubled times."
+#~ msgstr ""
+#~ "Levou anos reconstruir a vila e restaurar as granxas circundantes. A "
+#~ "xente de Maghre tivo que traballar moi duro, pero sentíase mellor sabendo "
+#~ "que os homes de Arne serían os seus firmes aliados en caso de que houbera "
+#~ "problemas."
+
+#, fuzzy
+#~ msgid ""
+#~ "Arne and his men left the village assured that it would be well guided by "
+#~ "Bjarn. On their journeys they faced many challenges and battles. Some "
+#~ "tales even mention Arne’s name together with that of the famous elvish "
+#~ "lord Kalenz, but this is a different story..."
+#~ msgstr ""
+#~ "Arne e os seus homes deixaron a vila seguros de que estaría ben coidada "
+#~ "por Bjarn. Nas súas viaxes enfrontáronse a moitos retos e batallas. "
+#~ "Algúns contos incluso relacionan a Arne co famoso señor élfico Kalenz, "
+#~ "pero ese é outro conto..."
+
+#~ msgid "Turns run out"
+#~ msgstr "Esgotar os turnos"
+
+#~ msgid ""
+#~ "In a remote part of Wesnoth, people lived their lives working hard and "
+#~ "caring for each other, but not knowing much about the world outside. But "
+#~ "there came a day when their peaceful world was shattered, as an evil mage "
+#~ "came to the region, spreading havoc and despair."
+#~ msgstr ""
+#~ "Nunha remota parte de Wesnoth, a xente vivía as súas vidas traballando "
+#~ "duro e coidando dos demais, pero sen saber moito do mundo exterior. Pero "
+#~ "chegou un día no seu pacífico mundo se acabou, xa que un mago malvado "
+#~ "chegou á rexión, provocando estragos e desesperación."
+
+#~ msgid ""
+#~ "Bjarn, the local mage of the village, was the man who saw best how to "
+#~ "deal with this threat. He asked the help of his brother Arne, leader of a "
+#~ "mercenary band of horsemen, and outfitted several of the villagers with "
+#~ "gear from the armory."
+#~ msgstr ""
+#~ "Bjarn, o mago local da vila, era o home que mellor sabía como enfrontarse "
+#~ "a esta ameaza. Pediulle axuda ó seu irmán Arne, líder dunha banda de "
+#~ "mercenarios a cabalo, e vestiu a varios dos aldeáns con equipos da "
+#~ "armería."
+
+#~ msgid "'ello there, Bjarn. So, what's the big fuss?"
+#~ msgstr "Estou aquí, Bjarn. Que é todo este rebumbio?"
+
+#~ msgid ""
+#~ "Mordak, an evil mage, threatens our lives and livelihoods. He is "
+#~ "terrorizing our countryside. I've already called the village to arms and "
+#~ "now it's up to you to lead them. You'll find him about two days' ride "
+#~ "north of here."
+#~ msgstr ""
+#~ "Mordak, un malvado mago, ameaza as nosas vidas e o noso sustento. Está "
+#~ "aterrorizando o noso país. Xa chamamos ás armas a toda a vila e agora "
+#~ "están preparados para que os dirixas ti. Atoparalo a dous días a cabalo ó "
+#~ "norte de aquí."
+
+#~ msgid ""
+#~ "Very well. We will go there and slay this source of evil. Charge, men!"
+#~ msgstr "Moi ben, iremos alá e destruiremos a fonte do mal. Atacade, homes!"
+
+#~ msgid ""
+#~ "I will attempt to sneak through the forest. If I can slay the evil one "
+#~ "while he is off his guard, the battle will be over in one stroke!"
+#~ msgstr ""
+#~ "Intentarei ir ás agochadas polo bosque. Se podo matar ó malvado mentres "
+#~ "ten a garda baixa, a batalla rematará rápido!"
+
+#~ msgid ""
+#~ "Bjarn should have been in position by now. I wonder if anything's "
+#~ "happened to him?"
+#~ msgstr "Bjarn debe estar en posición agora, Agardo que non lle pasara nada?"
+
+#~ msgid ""
+#~ "This is worrying. What's happened to Bjarn? I suppose we must slay the "
+#~ "dark sorcerer ourselves."
+#~ msgstr ""
+#~ "Isto é preocupante. Que lle ocorrería a Bjarn? Supoño que teremos que "
+#~ "matar á feiticeira escura nós mesmos."
+
+#~ msgid "Good work, men. Now, where is Bjarn?"
+#~ msgstr "Bo traballo, homes. Agora, onde está Bjarn?"
+
+#~ msgid "Nothing more to be had from him."
+#~ msgstr "Non soubemos nada máis del."
+
+#~ msgid ""
+#~ "Sir, he's been kidnapped! I just saw some men running off with him. They "
+#~ "looked like friends of this one."
+#~ msgstr ""
+#~ "Señor, raptárono! Acabo de ver a algúns homes escapar con el. Parecían "
+#~ "amigos desta."
+
+#~ msgid "Damn! I suppose we have to go after him, then."
+#~ msgstr "Maldición! Supoño que teremos que ir tras el, entón."
+
+#~ msgid ""
+#~ "Ha, so you thought to send a mage around and stab me in the back? Well, I "
+#~ "have news for you. We've kidnapped him!"
+#~ msgstr ""
+#~ "Ha, así que pensaches enviar un mago para que me atacara por detrás? Ben, "
+#~ "teño novas para ti. Collímolo!"
+
+#~ msgid ""
+#~ "What? Bjarn kidnapped? And the evil mage still ravages the land? Noooo!"
+#~ msgstr ""
+#~ "Que? Bjarn raptado? E o mago escuro ainda continua estragando a terra? "
+#~ "Noooon!"
+
+#~ msgid ""
+#~ "The kidnappers fled north through the forest, and Arne made to follow "
+#~ "them, although his horsemen would be at a disadvantage."
+#~ msgstr ""
+#~ "Os secuestradores fuxiron ó norte a través do bosque, e Arne seguiunos, "
+#~ "ainda que os seus homes a cabalo estarían en desvantaxe."
+
+#~ msgid "Come on men. A bracing walk in the woods never hurt anyone, did it?"
+#~ msgstr "Vide homes. Andar polos bosques nunca feriu a ninguén, non?"
+
+#~ msgid ""
+#~ "Those men had some great arguments persuading me to not allow you to "
+#~ "enter this forest. Any further, and you will die."
+#~ msgstr ""
+#~ "Eses homes tiñan algunhas razóns moi boas que me persuadiron de que non "
+#~ "vos permitira entrar neste bosque. Ide máis alá e morreredes."
+
+#~ msgid "A glorious combat at last, against mounted enemies!"
+#~ msgstr "Un glorioso combate despois de todo, contra inimigos montados!"
+
+#~ msgid "Curses! I hope the reinforcements get here so I can escape soon."
+#~ msgstr ""
+#~ "Maldición! Agardo que os reforzos cheguen aquí para poder liscar pronto."
+
+#~ msgid ""
+#~ "Hah! You got me alright, but what does that help? No harm telling you "
+#~ "now, I suppose. Your precious mage is safely locked away in our dungeons. "
+#~ "I was set up to be a decoy."
+#~ msgstr ""
+#~ "Hah! Tesme, pero como che axuda iso? Supoño que non fará ningún mal que "
+#~ "cho conte agora. O teu precioso mago está pechado nos nosos calabozos. "
+#~ "Enviaronme para despistarte."
+
+#~ msgid ""
+#~ "Nooo! Tricked again. Tell us where he is and we shall spare your "
+#~ "miserable life."
+#~ msgstr ""
+#~ "Nooon! Enganado outra vez. Dinos onde está e perdoareiche a túa miserable "
+#~ "vida."
+
+#~ msgid "Thank you. Leave him, men, we ride East."
+#~ msgstr "Grazas. Deixádeo, homes, imos ó Leste."
+
+#~ msgid ""
+#~ "Greetings, I am Brena. I saw you fighting the foul undead. I like nothing "
+#~ "better than smashing those foul skeletons and their ilk. Though I came "
+#~ "too late to help in this fight, I would like to aid you in your "
+#~ "forthcoming endeavors."
+#~ msgstr ""
+#~ "Noraboa, son Brena. Vinvos loitando contra os noxentos non mortos. Non "
+#~ "hai nada que me guste máis ca esmagar estes noxentos esqueletos. Ainda "
+#~ "que cheguei moi tarde para axudarvos nesta loita, gustariame axudarvos "
+#~ "nos vindeiros esforzos.   "
+
+#~ msgid ""
+#~ "Hurry, we have to track them down. Maybe we can still get them. They have "
+#~ "to be in the north!"
+#~ msgstr ""
+#~ "A présa, temos que seguilos. Pode que ainda poidamos alcanzalos. Teñen "
+#~ "que estar ó norte!"
+
+#~ msgid "Hurry to the north and stop the kidnappers"
+#~ msgstr "Vai a présa ó norte e detén ós raptores"
+
+#~ msgid "I think your village is protected well, though."
+#~ msgstr "Creo que a vila está ben protexida, penso."
+
+#~ msgid "So am I. But what is happening to our village?"
+#~ msgstr "Aquí estou. Pero que está ocorrendo na nosa vila?"
+
+#~ msgid ""
+#~ "In the time you have been away a looting band of orcs took over this "
+#~ "region. There was noone here to stop them."
+#~ msgstr ""
+#~ "Mentres vós estabades fóra unha banda de orcos saqueadores chegou a esta "
+#~ "rexión. Non había ninguén aquí para detelos."
+
+#~ msgid ""
+#~ "I have to leave you now. My men and I are needed by others, too. But "
+#~ "should you ever face another grim foe, send me a messenger. I'll come as "
+#~ "fast as I can, little brother."
+#~ msgstr ""
+#~ "Teño que deixarte agora. Hai outros que nos precisan ós meus homes e mais "
+#~ "a min. Pero cando te volvas enfrontar a calquera outro inimigo enviame un "
+#~ "mensaxeiro. Virei tan rápido como poida, irmán."
