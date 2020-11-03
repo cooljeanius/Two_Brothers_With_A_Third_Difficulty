@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-10-25 21:48 UTC\n"
+"POT-Creation-Date: 2020-11-03 07:30 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,17 +19,27 @@ msgid "Arvith"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:21
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:25
 msgid "All is lost now that I am dead..."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:39
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:43
 msgid "It is over, I am vanquished."
 msgstr ""
 
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:62
+msgid "Ugh, I guess I should have seen this coming..."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:67
+msgid "What a shame, just as he was starting to redeem himself, too..."
+msgstr ""
+
 #. [unit]: id=Baran, type=Red Mage
-#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:130
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:154
 msgid "Baran"
 msgstr ""
 
@@ -64,9 +74,9 @@ msgstr ""
 #. [side]: type=Longbowman, id=Reeve Hoban
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:48
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:52
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:103
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:108
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:58
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:89
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:90
 msgid "Humans"
 msgstr ""
 
@@ -77,7 +87,7 @@ msgstr ""
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:75
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:133
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:78
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:113
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:114
 msgid "Enemies"
 msgstr ""
 
@@ -97,10 +107,18 @@ msgstr ""
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:96
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:105
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:117
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:761
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:776
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:791
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:806
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:821
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:831
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:840
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:850
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:830
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:838
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:846
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1027
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1037
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1046
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1056
 msgid "Guard"
 msgstr ""
 
@@ -111,443 +129,526 @@ msgstr ""
 
 #. [unit]: type=Orcish Grunt
 #. [unit]: type=Orcish Grunt, type=Orcish Warrior
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:148
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:156
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:157
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:165
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:177
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:174
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:186
 msgid "Castle Guard"
 msgstr ""
 
 #. [time]: id=indoors_dark_castle
 #. similar string in the wesnoth-help textdomain
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:255
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:264
 msgid "Indoors (dark castle)"
 msgstr ""
 
 #. [time]: id=indoors_dark_castle_lit
 #. similar string in the wesnoth-help textdomain
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:271
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:280
 msgid "Indoors (lit)"
 msgstr ""
 
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:327
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:336
 msgid "Rescue Baran"
 msgstr ""
 
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:339
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:348
 msgid "Kill the dark sorcerer to get the cell key"
 msgstr ""
 
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:353
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:362
 msgid "Move Arvith to the cell with his brother to free him"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:357
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:135
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:339
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:366
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:140
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:511
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:281
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:164
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:165
 msgid "Death of Arvith"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:366
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:139
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:343
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:375
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:144
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:515
 msgid "Death of Baran"
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:378
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:387
 msgid "When facing an unknown situation, take into account details from story and dialog to inform your strategy."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:387
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:396
 msgid "The dark sorcerer is a strong unit; attack him with multiple units at once and try to force him off his keep."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:397
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:406
 msgid "Markings or decorations on hexes may indicate something to be found. If you can, it is usually a good idea to investigate."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:411
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:420
 msgid "Hm, I wonder where Baran could be?"
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:420
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:429
 msgid "Beware: the dark sorcerer is a strong unit."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:430
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:439
 msgid "Try investigating hexes with markings or decorations."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:445
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:454
 msgid "???"
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:454
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:463
 msgid "The dark sorcerer is strong."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:464
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:473
 msgid "Investigate."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:501
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:510
 msgid "Arvith and his men halt outside of the castle, gazing for a moment at the hulking mass of stone looming in the fog. There is movement in the mist."
 msgstr ""
 
 #. [message]: speaker=Guard_leader
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:506
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:515
 msgid "Halt! Friend or foe? Give the password."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:511
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:520
 msgid "The password is"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:514
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:523
 msgid "Sithrak!"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:517
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:526
 msgid "Eleben!"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:520
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:529
 msgid "Jarlom!"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:523
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:532
 msgid "Hamik!"
 msgstr ""
 
 #. [message]: speaker=Guard_leader
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:536
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:545
 msgid "Pass, friend."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:551
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:560
 msgid "The adept didn’t lead us astray after all. I’ll keep my word, distasteful as it may be; cut him loose, and let’s be rid of him."
 msgstr ""
 
 #. [unit]: type=Dark Adept, id=Muff Toras
+#. [message]: speaker=narrator
 #. [side]: type=Dark Adept, id=Muff Toras
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:558
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:590
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:567
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:600
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:704
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:895
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:167
 msgid "Muff Toras"
 msgstr ""
 
 #. [message]: speaker=Muff Toras
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:571
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:581
 msgid "Thank you so much for sparing me, Sir Arvith! If I may, please permit to join your forces so that I may redeem myself for having kidnapped your brother!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:576
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:586
 msgid "Fine, if you insist."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:582
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:592
 msgid "Muff Toras will now fight on your side! He is a <i>Dark Adept</i>, which you should already know about from having faced previously!"
 msgstr ""
 
 #. [message]: speaker=Muff Toras
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:604
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:615
 msgid "Thank you for your mercy, Sir Arvith! Surely a merciful man such as yourself will permit me to join your forces?"
 msgstr ""
 
 #. [message]: role=objector
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:632
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:643
 msgid "Don't let him! I'll never allow myself to fight alongside a dark magic user like him!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:637
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:648
 msgid "Hm..."
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:639
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:650
 msgid "Very well, Muff Toras! You may join my forces!"
 msgstr ""
 
 #. [message]: speaker=Muff Toras
 #. [message]: role=objector
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:643
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:675
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:654
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:686
 msgid "Thank you for making the right choice!"
 msgstr ""
 
 #. [message]: role=objector
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:648
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:659
 msgid "Hmph, that's it! I quit! I'm sorry, Arvith, but my moral beliefs against dark magic compel me to leave!"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:657
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:668
 msgid "I'm sorry, Muff Toras, but I must take into account my men's objections."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:661
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:672
 msgid "While I cannot permit you to fight alongside us, I shall still permit you to leave unharmed, however."
 msgstr ""
 
 #. [message]: speaker=Muff Toras
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:666
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:677
 msgid "Hmph, suit yourself..."
 msgstr ""
 
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:733
+msgid "!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:742
+msgid "You! But you gave us the correct passwords though! Why would you lead us true if you were only planning on betraying us?!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:747
+msgid "Hahaha, I tricked you! My plan all along was to lead you into a trap! Hey guards, time to return to duty!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:853
+msgid "Argh, the guards have returned! Watch your backs, men!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:867
+msgid "Time to correct my mistake of having left you alive!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:879
+msgid "Ugh, so much for my trap..."
+msgstr ""
+
 #. [message]: speaker=Guard_leader
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:695
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:889
 msgid "Wrong! Die!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:715
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:897
+msgid "You fool! I <b><i>told</i></b> you it was $first_password! Where did you even come up with $password_picked from?!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:901
+msgid "Shut up, kidnapper!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:921
 msgid "Tutorial: Heavy Infantryman"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:716
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:922
 msgid "You have recruited a <i>Heavy Infantryman</i>. Heavy Infantrymen have bulky armor which makes them slow and easy for enemies to hit. In return, they wield a mace for a melee attack which can deal massive <i>impact</i> damage, which is especially powerful against skeletons."
 msgstr ""
 
 #. [message]: speaker=Knago-Brek
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:732
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:938
 msgid "Haha! We not kill people for long time. Weapon wants blood. We now kill humans!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:737
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:943
 msgid "My sword-arm shall have a say in who will do the dying. Come on, men, let’s kill some orcs."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:749
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:955
 msgid "One less braggart orc in the world."
 msgstr ""
 
 #. [message]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:758
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:964
 msgid "Captain, what are <i>orcs</i> doing this far south?"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:763
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:969
 msgid "Good question. Perhaps my brother will have found out."
 msgstr ""
 
 #. [message]: speaker=Guard2_leader
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:867
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1073
 msgid "Are you our relief arriving? Does this mean we get to leave here now?"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:872
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1078
 msgid "Um, yes. Fine. You can go."
 msgstr ""
 
 #. [message]: speaker=Guard2_leader
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:877
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1083
 msgid "Um, you’re supposed to give the password."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:882
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1088
 msgid "Oh, of course. I had nearly forgotten."
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:885
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1091
 msgid "Akranbral!"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:888
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1094
 msgid "Drakanal!"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:891
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1097
 msgid "Xaskanat!"
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:894
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1100
 msgid "Katklagad!"
 msgstr ""
 
 #. [message]: speaker=Guard2_leader
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:907
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1113
 msgid "Thanks! Irritating little formality, isn’t it?"
 msgstr ""
 
 #. [message]: speaker=Guard2_leader
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:917
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1123
 msgid "That’s the wrong password! These aren’t our relief! Get them!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:925
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1131
 msgid "I think I should better support my men at the front to make sure we can free my brother."
 msgstr ""
 
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1149
+msgid "I'm sorry, master, but I have realized the error of my ways in following you. No more! It's time for your schemes to end!"
+msgstr ""
+
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:937
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1155
 msgid "Your hand or Tairach’s, death is still death... (argh)"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:949
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1165
 msgid "‘Tairach’? Who or what is Tairach?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:954
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1170
 msgid "There’s a key in his robes."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:964
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1180
 msgid "That may well be the key to the cell they’re holding Baran in! I will take it."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:992
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1208
 msgid "It may be important, I best take it."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1010
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1226
 msgid "This castle seems as dark as a cave!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1016
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1232
 msgid "This castle is under a constant, <i>chaotic</i> time of day (equivalent to permanent night), except for illuminated hexes adjacent to lit stone walls (neutral time of day). Place your units carefully, as your troops will be weaker and enemy units stronger."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1023
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1239
 msgid "This castle is under a constant, <i>chaotic</i> time of day, except for illuminated hexes adjacent to lit stone walls. Keep this in mind when placing your units."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1030
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1246
 msgid "The time of day in this castle is mostly constantly <i>chaotic</i> (exceptions apply)."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1050
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1266
 msgid "Look what I have found in here! I can count $gold_amt pieces of gold."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1089
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1305
 msgid "I found Baran. He is in this cell."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1100
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1316
 msgid "It’s good to see you, Arvith."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1105
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1321
 msgid "And you too, brother."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1111
-msgid "You must be one of Arvith’s men. Please help me get out of this dungeon."
-msgstr ""
-
-#. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1119
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1326
 msgid "The accursed dark sorcerer Rotharik has imprisoned me behind this magically enhanced iron gate. It can only be opened with the correct key. You must get it from him to free me."
 msgstr ""
 
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1337
+msgid "You! You were one of my kidnappers! Why have you returned, to torture me, I assume? Well, you won't break me!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1341
+msgid "Shush! I'm not here to harm you! Your brother Arvith captured me, but he spared my life, so I work for him now! We're going to get you out of here!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1345
+msgid "Hm... I can't say I really trust you after you kidnapped me once, but then again, it's not like I have much choice here, so I might as well wait to see if you can deliver..."
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1349
+msgid "That's all I ask."
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1353
+msgid "Well, as one of my kidnappers, you must already know that I can't just fireball my way out of here, due to the magical enhancements your master — er, I mean, FORMER master Rotharik made to this iron gate."
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1357
+msgid "That's correct; it can only be opened with the correct key. We are working on getting it from Rotharik in order to free you."
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1361
+msgid "You'd better be!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1368
+msgid "You must be one of Arvith’s men. Please help me get out of this dungeon in which the accursed dark sorcerer Rotharik has imprisoned me! The iron gate is magically enhanced and can only be opened with the correct key. You must get it from Rotharik to free me!"
+msgstr ""
+
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1131
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1382
 msgid "I have already met, and killed, the sorcerer. Is this the key to which you referred?"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1135
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1386
 msgid "Yes, it is. Come, unlock this cell door, and let us depart this place, brother!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1165
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1416
 msgid "You can now control Baran! However, as he will remain imprisoned for the remainder of this scenario, we shall wait until the next one to give you tips on using him."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1197
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1448
 msgid "Thank you for saving me. I... was not certain you would come."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1202
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1453
 msgid "Have you no faith in your brother, Baran?"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1207
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1458
 msgid "It’s not that. Perhaps I deserved to rot here. I failed you. I failed you again."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1212
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1463
 msgid "That is as may be. But you are my brother still. And... I never doubted you would have come for me."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1217
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1468
 msgid "It was no great trial, after all. A few elves, one or two dark sorcerers, a gang of orcs and some undead. Really just a day’s work for the company."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1222
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1473
 msgid "Thank you for coming to my aid. Let us return to the village."
 msgstr ""
 
 #. [unit]: id=Rotharik, type=Orcish Assassin
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1256
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1507
 msgid "Minion of Tairach"
 msgstr ""
 
 #. [message]: speaker=Rotharik
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1268
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1519
 msgid "You are too late! Your brother is already dead! Muahahaha...!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1273
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1524
 msgid "Argh!!"
 msgstr ""
 
@@ -587,182 +688,263 @@ msgid "Tairach"
 msgstr ""
 
 #. [side]: type=Longbowman, id=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:108
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:113
 msgid "Reeve Hoban"
 msgstr ""
 
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:131
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:136
 msgid "Find out what is happening in the village"
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:147
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:152
 msgid "Recruit or Recall some high-move units to be able to see as far as possible through the fog for approaching units."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:150
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:155
 msgid "Watch your visibility with this fog."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:153
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:158
 msgid "Watch out!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:176
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:181
 msgid "There. The village is just across those hills, and already I see men coming to greet us!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:195
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:200
 msgid "No, they are fleeing from something. We must find out what is happening over there!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:200
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:205
 msgid "Men! Ready your arms!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:205
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:210
 msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:220
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:225
 msgid "Tutorial: Baran"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:221
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:226
 msgid "Baran is now free for you to use to his full potential! Baran is a <i>Red Mage</i>. He is unique among your units in that he has a <i>neutral</i> alignment. He has a strong ranged attack in which he hurls powerful magical fireballs at enemies. Unfortunately, the enemies against which these fireballs are strongest (undead and wood-based enemies) aren't available here at the end of this campaign for you to fry. Baran can also do a weak melee attack with his staff, dealing <i>impact</i> damage to enemies."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:237
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:242
 msgid "We’re almost there!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:242
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:247
 msgid "That warlord! It’s..."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:247
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:252
 msgid "Yes, I’d know that face anywhere. Especially after what you did to it."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:252
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:257
 msgid "The warlord from Toen Caric."
 msgstr ""
 
 #. [message]: speaker=Tairach
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:257
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:262
 msgid "You! The mage who scarred me with fire! KILL THEM!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:262
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:267
 msgid "Let’s finish what we started, brother."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:267
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:272
 msgid "Aye. I’ll be the right arm, and you’ll be the left. Let’s go!"
 msgstr ""
 
-#. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:287
-msgid "One of Reeve Hoban's men!"
+#. [message]: speaker=second_unit
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:311
+msgid "Hey look! It's Reeve Hoban!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:293
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:317
+msgid "One of Reeve Hoban's men!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:322
 msgid "Hey Reeve! Look who showed up!"
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:299
+#. Reeve starts to say "Arvith" but then interrupts himself:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:364
+msgid "Hello Arv-wait, what's this? Why do you have a dark mage with you, Arvith?!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:368
+msgid "Hold, fair Reeve. This mage agreed to fight alongside me after I spared his life."
+msgstr ""
+
+#. [message]: speaker=Reeve Hoban
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:372
+msgid "Well, if you trust him, I guess that I can do so, as well. Anyways, I am glad that you have returned."
+msgstr ""
+
+#. [message]: speaker=Reeve Hoban
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:379
 msgid "I am glad to see you returned."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:306
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:386
 msgid "No gladder than I am to be here. But what has happened to Maghre?"
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:311
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:391
 msgid "Soon after you departed we were beset by orcs. With half the men of Maghre gone, we could not stop them."
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:316
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:396
 msgid "The orcish warlord aims to enslave us. We will not be able to hold out for much longer."
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:321
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:401
 msgid "Have a care, his men are fell fighters and have killed many. Very few remain who can bear arms, but I will send them to aid you in battle."
 msgstr ""
 
+#. [message]: speaker=Reeve Hoban
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:425
+msgid "Ungh... My time has come... Arvith... Baran... the defense of Maghre now falls to the two of you..."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:430
+msgid "No! Reeve!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:435
+msgid "You orcs will pay for this!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:447
+msgid "...well, we can't sit around mourning Reeve while we are still beset by orcs... To the defense of Maghre, men!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:452
+msgid "Maybe we can take up his position for him?"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:457
+msgid "We shall see!"
+msgstr ""
+
+#. [message]: speaker=Reeve Hoban
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:477
+msgid "Here, have some gold. You could probably put it to better use than I can."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:483
+msgid "It appears Reeve left behind some gold in his keep!"
+msgstr ""
+
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:335
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:507
 msgid "Slay the Orcish Warlord to free the village"
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:351
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:523
 msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:354
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:526
 msgid "Have Arvith make use of Reeve Hoban’s keep."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:357
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:529
 msgid "Use Reeve Hoban’s keep."
 msgstr ""
 
 #. [message]: speaker=Tairach
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:398
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:570
 msgid "Today, you shall pay for disfiguring my face, mage!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:403
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:575
 msgid "I have already paid with the lives of my men at Toen Caric. It is time I righted that mistake and finished this once and for all."
 msgstr ""
 
+#. [message]: speaker=Tairach
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:615
+msgid "You again!"
+msgstr ""
+
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:414
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:620
+msgid "It is time for me to finish what Baran started!"
+msgstr ""
+
+#. [message]: speaker=Tairach
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:660
+msgid "Hey wait, weren't you one of that insignificant mage Rotharik's men? Weren't you supposed to be capturing Baran and bringing him to me?"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:665
+msgid "Yes, that was originally the plan. However, I've changed my mind: I'd much rather kill you instead!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:681
 msgid "It is finished. We’ve defeated him at last. It was good to have you at my side, Baran."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:419
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:686
 msgid "So much has been destroyed. It will be difficult to repair all that the orcs and undead have wrecked. And they could come again."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:424
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:691
 msgid "I must go back to earning my living. But we have our amulets, little brother. If you are beset again, I will come."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:442
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:709
 msgid "I don’t think we can rescue anyone from these villages. It is too late."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:447
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:714
 msgid "I was too weak to protect these people. Oh, why did this happen to me?!"
 msgstr ""
 
@@ -874,217 +1056,217 @@ msgid "Attack the Dark Adept."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:441
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:466
 msgid "Come on, men. A stroll through such lovely green woods, what could be finer?"
 msgstr ""
 
 #. [message]: speaker=Nil-Galion
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:446
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:471
 msgid "You there! Halt and explain yourself."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:451
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:476
 msgid "We’re chasing after some men who kidnapped my brother!"
 msgstr ""
 
 #. [message]: speaker=Nil-Galion
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:456
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:481
 msgid "Those men told me their prisoner had attempted to murder their master, and warned that evil men would follow him. Advance no further, or you will die."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:461
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:486
 msgid "So much for those ghost stories. Mere elves will not stop me from freeing Baran!"
 msgstr ""
 
 #. [message]: role=Mercenary
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:466
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:491
 msgid "I am glad at least that we will not have to face ghosts. But those elves will have us at a disadvantage; our horses will not maneuver well in the trees."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:471
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:496
 msgid "Bah, just stay on the paths; our spearmen and bowmen can fight in the deeper woods. We have faced and won through greater perils than those amateurs can offer."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:501
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:526
 msgid "I see them! There they are!"
 msgstr ""
 
 #. [message]: speaker=Muff Toras
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:506
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:531
 msgid "Curses! If they had been an hour slower, our master’s reinforcements would already be here to meet us."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:518
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:543
 msgid "Come on, men, let’s catch those kidnappers!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:532
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:557
 msgid "Hah! You have captured me, but it will avail you nothing. I sent your precious brother the mage north with half my men a day since; he will be safely locked away in our master’s dungeons by now."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:537
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:562
 msgid "My blade is at your throat. Give us the way to my brother now, or I will spill your wretched blood on the ground."
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:540
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:565
 msgid "Sithrak"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:541
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:566
 msgid "Eleben"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:542
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:567
 msgid "Jarlom"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:543
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:568
 msgid "Hamik"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:547
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:572
 msgid "Akranbral"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:548
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:573
 msgid "Drakanal"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:549
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:574
 msgid "Xaskanat"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:550
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:575
 msgid "Katklagad"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:556
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:581
 msgid "Three days ride to the northeast, in a deserted castle. The passwords to the guards are $first_password_$first_password and $second_password_$second_password|."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:564
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:589
 msgid "Bind him and take him with us. If he has played us false, he will die."
 msgstr ""
 
 #. [message]: role=Mercenary
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:576
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:619
 msgid "Captain, what are we riding into? I thought you wanted nothing to do with Baran any more, not since Toen Caric."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:581
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:624
 msgid "I’m no longer sure. What’s between us remains, but knowing someone else has lain hands on him changes things. Mount up, and let’s get moving."
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:596
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:639
 msgid "Brena"
 msgstr ""
 
 #. [message]: speaker=Brena
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:606
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:649
 msgid "Greetings. I am Brena, a knight errant. I saw you pursuing and fighting the foul undead. Are there more of them to be destroyed?"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:611
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:654
 msgid "Aye. We think there’s a nest of them north-east of here. They’ve captured my brother."
 msgstr ""
 
 #. [message]: speaker=Brena
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:616
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:659
 msgid "I bear a great hatred towards their kind. I will follow and fight them with you, if you permit."
 msgstr ""
 
 #. [message]: role=Mercenary
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:621
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:664
 msgid "He would only slow us down!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:626
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:669
 msgid "It is my place to decide this."
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:628
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:671
 msgid "Oh, all right then. Come along with us."
 msgstr ""
 
 #. [message]: speaker=Brena
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:632
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:675
 msgid "Thank you. My comrades and I will help you on your noble quest."
 msgstr ""
 
 #. [option]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:637
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:680
 msgid "I am sorry. We have not the time to spare."
 msgstr ""
 
 #. [message]: speaker=Brena
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:641
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:684
 msgid "Take this, then, for I see that you are on a quest. My comrades will help you whenever you call for them."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:656
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:699
 msgid "You receive 70 pieces of gold!"
 msgstr ""
 
 #. [message]: role=Mercenary
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:669
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:712
 msgid "Oh, by the way, I found some gold!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:684
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:727
 msgid "You receive 35 pieces of gold!"
 msgstr ""
 
 #. [message]: role=Mercenary
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:690
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:733
 msgid "It's a shame this kidnapper had nothing on him besides those passwords..."
 msgstr ""
 
 #. [message]: speaker=Muff Toras
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:706
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:751
 msgid "My reinforcements are here!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:711
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:800
 msgid "He escaped us..."
 msgstr ""
 
 #. [message]: speaker=Nil-Galion
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:723
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:812
 msgid "Foolish human, you have killed me but you will not catch the undead in time. I have fulfilled my contract, and will be reanimated soon to become a lord of their armies."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:733
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:822
 msgid "Follow their back trail!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:752
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:841
 msgid "You will be able to recruit <i>Heavy Infantrymen</i> in the next scenario! Lessons on using them will be postponed until you recruit one then."
 msgstr ""
 
@@ -1130,107 +1312,107 @@ msgid "Heeding the call of his amulet, Arvith gathered such men as he could and 
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Mordak
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:118
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:119
 msgid "Mordak"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:145
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:146
 msgid "Alwyn"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:146
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:147
 msgid "Brent"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:147
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:148
 msgid "Cadell"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:148
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:149
 msgid "Dannen"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:149
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:150
 msgid "Efran"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:150
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:151
 msgid "Faren"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:153
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:154
 msgid "Tarek"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:154
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:155
 msgid "Hann"
 msgstr ""
 
 #. [event]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:155
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:156
 msgid "Magrid"
 msgstr ""
 
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:160
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:161
 msgid "Slay Mordak, the evil mage"
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:175
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:176
 msgid "Use footpads (which are chaotic) as fodder to protect your loyal units, and attack with your lawful units during the day to minimize the damage your forces take."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:178
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:179
 msgid "Protect your loyal units and attack during the day to minimize the damage your forces take."
 msgstr ""
 
 #. [objectives]
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:181
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:182
 msgid "Attack during the day."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:191
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:192
 msgid "Greetings, brother, and welcome home."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:196
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:197
 msgid "Hail."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:201
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:202
 msgid "Is that all, Arvith? I understand, but..."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:206
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:207
 msgid "You called, and I came; be content with that. What ails Maghre?"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:211
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:212
 msgid "A dark mage has come upon us; his creatures call him Mordak. They have been terrorizing outlying farms, and we fear they may soon attack the village itself! The villagers of Maghre have taken up weapons but they are not trained fighters; we need your men, and you to lead them."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:216
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:217
 msgid "I can feel Mordak’s foul touch on the hidden currents of the earth and air. He is somewhere due north of here, I would say not more than two days’ ride."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:221
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:222
 msgid "All right. I will do this for the village. Can you keep the mage off our backs?"
 msgstr ""
 
@@ -1245,172 +1427,172 @@ msgid "...Aye. Just make sure you’re there when we need you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:249
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:283
 msgid "Tutorial: Arvith"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:250
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:284
 msgid "Welcome to <u>A Tale of Two Brothers</u>! Your leader in this campaign is <i>Arvith</i>, who is a <i>Knight</i>. He is a powerful mounted unit with two separate melee attacks: a sword (which does many weaker attacks of the <i>blade</i> damage type), and a lance (which does fewer but stronger attacks of the <i>pierce</i> damage type). In most other single-player campaigns your leader doesn't get to start being level 2 already like Arvith is, so you won't have to worry about leveling up Arvith as much as you might with your leaders in other campaigns. Don't let that stop you from taking advantage of his strength, though!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:267
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:301
 msgid "Tutorial: Horseman"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:269
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:303
 msgid "You have recruited a <i>Horseman</i>. Horsemen have a spear with which they can <i>charge</i> into combat, inflicting double normal damage, though taking double damage in return. This is a melee-range attack that deals damage of the <i>pierce</i> damage type. Horsemen are unmatched on open land, though footpads will serve you better in forests or rugged terrain."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:284
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:318
 msgid "Tutorial: Bowman"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:286
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:320
 msgid "You have recruited a <i>Bowman</i>. Bowmen have a strong ranged attack and are very effective against units that lack a ranged attack, like Walking Corpses, Vampire Bats, and Ghouls. They also carry a sword and can defend themselves against melee attacks."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:301
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:335
 msgid "Tutorial: Spearman"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:303
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:337
 msgid "You have recruited a <i>Spearman</i>. Spearmen have a strong melee attack and are effective against most living units. They also have a weak ranged attack. They form the backbone of Arvith's forces."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:318
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:352
 msgid "Tutorial: Footpad"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:319
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:353
 msgid "You have recruited a <i>Footpad</i>. Footpads are <i>chaotic</i>, meaning that they fight better at night than during the day. They have both melee and ranged attacks that deal damage of the <i>impact</i> damage type, which is particularly effective against skeletons. They also have many movement points, making them excellent scouts."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:334
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:368
 msgid "Tutorial: Walking Corpse"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:335
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:369
 msgid "Mordak has recruited a <i>Walking Corpse</i>. Walking Corpses have a melee attack that can inflict <i>plague</i>, which means that any units that they kill are turned into Walking Corpses themselves. These newly-risen Walking Corpses will fight for the side that raised them (in this case, Mordak's), so make sure not to let any Walking Corpses get the final hit in on any of your units! They are relatively weak, however, so it is unlikely that they will do so unless they surround you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:350
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:384
 msgid "Tutorial: Vampire Bat"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:351
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:385
 msgid "Mordak has recruited a <i>Vampire Bat</i>. Vampire Bats have a melee attack with the <i>drain</i> special, meaning that they heal themselves whenever they successfully hit their opponent. They need to do so because they have relatively few hitpoints, and would have a hard time surviving otherwise. Vampire Bats also have many movement points, meaning that you should beware of them moving long distances in a single turn in order to attack you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:366
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:400
 msgid "Tutorial: Dark Adept"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:367
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:401
 msgid "Mordak has recruited a <i>Dark Adept</i>. Dark Adepts are the rare unit without any melee attack whatsoever, making them an ideal target for your own melee units. To compensate, they have 2 separate powerful ranged attacks with the <i>magical</i> special, which gives them a better chance to hit you even when you are on favorable terrain. In other words, hiding in a village won't protect you from a Dark Adept's magic; you'll need to flee farther outside of their movement range to escape them instead."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:382
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:416
 msgid "Tutorial: Ghoul"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:383
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:417
 msgid "Mordak has recruited a <i>Ghoul</i>. Ghouls have a melee attack that can inflict <i>poison</i>. As you do not have access to healers in this campaign, be sure to retreat any poisoned units to villages in order to cure them of their poison."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:397
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:431
 msgid "Baran should be in position by now. Press them, distract the adept so Baran can spring his trap!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:400
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:434
 msgid "Baran should be in position by now. Press them so Baran can spring his trap!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:403
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:437
 msgid "Baran should be in position by now and springing his trap soon!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:415
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:449
 msgid "Baran has not made his attack!"
 msgstr ""
 
 #. [message]: role=Mercenary
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:420
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:454
 msgid "Could he have abandoned us?"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:425
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:459
 msgid "No... No. This is something else. I’m worried about him... but right now it means we have to deal with this Mordak ourselves."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:437
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:471
 msgid "Argh!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:442
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:476
 msgid "Good work, men! But what has become of my brother?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:447
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:481
 msgid "Worried about him, are you? E-he-he... hergh... gaargh..."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:457
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:491
 msgid "There’s nothing more to be had from this one; we will have to search for Baran ourselves!"
 msgstr ""
 
 #. [message]: role=Reporter
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:479
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:513
 msgid "Sir, our scouts report that Baran was seen captured and carried away further north!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:484
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:518
 msgid "That they should dare this! We will give chase at once."
 msgstr ""
 
 #. [message]: speaker=Mordak
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:505
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:539
 msgid "Your brother’s plan to ambush me has failed. He is our prisoner now."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:510
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:544
 msgid "My brother, kidnapped? I have failed you, Baran! And even now Mordak’s forces descend upon the village!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:526
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:560
 msgid "I hear these creatures are nigh-immune to our weapons, let us see!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:542
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:576
 msgid "That was not so hard!"
 msgstr ""
 
@@ -1520,7 +1702,7 @@ msgid "Miscellaneous"
 msgstr ""
 
 #. [entry]
-#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:96
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:100
 msgid "And special thanks to everyone else who I forgot to mention."
 msgstr ""
 
