@@ -6,3 +6,5 @@ The village’s mage sends to his warrior brother for help, but not all goes as
 planned. Can you help?
 
 (Rookie level, 4 scenarios.)
+
+Forum thread here: https://forums.wesnoth.org/viewtopic.php?f=8&t=53601
