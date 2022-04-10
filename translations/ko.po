@@ -2,52 +2,68 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.1.1+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-10-25 18:00 UTC\n"
+"POT-Creation-Date: 2022-04-10 05:15 UTC\n"
 "PO-Revision-Date: 2011-10-01 22:09+0900\n"
 "Last-Translator: mistzone <drier22@gmail.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:13
-msgid "A Tale of Two Brothers"
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:15
+#, fuzzy
+#| msgid "A Tale of Two Brothers"
+msgid "A Tale of Two Brothers With a Third Difficulty"
 msgstr "두 형제 이야기"
 
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:14
-msgid "AToTB"
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:16
+#, fuzzy
+#| msgid "AToTB"
+msgid "AToTBWaTD"
 msgstr "형제"
 
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:18
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:20
+msgid "Horseman"
+msgstr "기마병"
+
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:20
 #, fuzzy
 #| msgid "(Beginner)"
 msgid "Beginner"
 msgstr "(초심자)"
 
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:18
-msgid "Horseman"
-msgstr "기마병"
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:21
+msgid "Knight"
+msgstr "기사"
 
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:19
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:21
+msgid "Intermediate"
+msgstr ""
+
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:22
+#, fuzzy
+#| msgid "Knight"
+msgid "Grand Knight"
+msgstr "기사"
+
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:22
 #, fuzzy
 #| msgid "(Challenging)"
 msgid "Challenging"
 msgstr "(까다로운)"
 
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:19
-msgid "Knight"
-msgstr "기사"
-
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:21
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:24
 msgid ""
 "An evil mage is threatening the small village of Maghre and its inhabitants. "
 "The village’s mage sends to his warrior brother for help, but not all goes "
@@ -59,50 +75,50 @@ msgstr ""
 "필요합니다.\n"
 "\n"
 
-#. [campaign]: id=Two_Brothers
-#: data/campaigns/Two_Brothers/_main.cfg:23
+#. [campaign]: id=Two_Brothers_Three_Difficulties
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:26
 #, fuzzy
 #| msgid "(Novice level, 4 scenarios.)"
 msgid "(Rookie level, 4 scenarios.)"
 msgstr "(초보자 레벨, 4 개 시나리오.)"
 
 #. [about]
-#: data/campaigns/Two_Brothers/_main.cfg:30
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:33
 msgid "Campaign Design"
 msgstr "캠페인 기획"
 
 #. [about]
-#: data/campaigns/Two_Brothers/_main.cfg:39
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:45
 msgid "Prose and Story Edits"
 msgstr "내용 및 스토리 편집"
 
 #. [about]
-#: data/campaigns/Two_Brothers/_main.cfg:48
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:57
 msgid "Campaign Maintenance"
 msgstr "캠페인 관리"
 
 #. [about]
-#: data/campaigns/Two_Brothers/_main.cfg:57
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:69
 msgid "Artwork and Graphics Design"
 msgstr "삽화 및 그래픽 디자인"
 
 #. [about]
-#: data/campaigns/Two_Brothers/_main.cfg:73
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:85
 msgid "Miscellaneous"
 msgstr "기타등등"
 
 #. [entry]
-#: data/campaigns/Two_Brothers/_main.cfg:87
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:103
 msgid "And special thanks to everyone else who I forgot to mention."
 msgstr "또한 잊고 언급하지 않은 모든 분들께도 특별히 감사를 전합니다."
 
 #. [scenario]: id=01_Rooting_Out_a_Mage
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:5
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:5
 msgid "Rooting Out a Mage"
 msgstr "마법사 처치"
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:50
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:50
 msgid ""
 "The remote freehold of Maghre in the western reaches of the kingdom of "
 "Wesnoth was once a peaceful place, its inhabitants largely unaware of the "
@@ -117,7 +133,7 @@ msgstr ""
 "는..."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:54
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:54
 msgid ""
 "Skeletons and zombies killed cattle and fired fields. <i>“Fear and obey "
 "Mordak the Mage!”</i> they cried in fell voices as they did their foul "
@@ -133,7 +149,7 @@ msgstr ""
 "있었고, 그의 도움을 구하러 보낸 전령은 돌아오지 않았다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:58
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:58
 msgid ""
 "There was a man named Baran who had shown talent as a mage when he was "
 "young, gone to the great Academy on the Isle of Alduin, and returned to work "
@@ -152,7 +168,7 @@ msgstr ""
 "만들 것을 지시했다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:62
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:62
 msgid ""
 "Now Baran had a brother named Arvith who had also left Maghre to seek his "
 "fortune, and had become the leader of a small band of horsemen who hired out "
@@ -167,7 +183,7 @@ msgstr ""
 "적을 만들어 뒀었다. Baran은 신호를 보냈다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:66
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:66
 msgid ""
 "12 V, 363 YW\n"
 "Excerpt from the journal of Baran of Maghre\n"
@@ -195,7 +211,7 @@ msgstr ""
 "모른다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:75
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:75
 msgid ""
 "Heeding the call of his amulet, Arvith gathered such men as he could and "
 "hurried to Maghre to help Baran."
@@ -205,120 +221,136 @@ msgstr ""
 
 #. [side]
 #. [side]: type=Longbowman, id=Reeve Hoban
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:93
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:66
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:56
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:58
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:111
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:90
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:58
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:48
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:52
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:108
 msgid "Humans"
 msgstr "인간"
 
 #. [side]: type=Dark Sorcerer, id=Mordak
-#. [side]: type=Orcish Warlord, id=Tairach
 #. [side]: type=Dark Sorcerer, id=Rotharik
 #. [side]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:114
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:81
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:131
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:82
+#. [side]: type=Orcish Warlord, id=Tairach
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:114
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:75
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:133
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:78
 msgid "Enemies"
 msgstr "적"
 
 #. [side]: type=Dark Sorcerer, id=Mordak
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:119
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:119
 msgid "Mordak"
 msgstr "Mordak"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:146
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:147
 msgid "Alwyn"
 msgstr "Alwyn"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:147
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:148
 msgid "Brent"
 msgstr "Brent"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:148
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:149
 msgid "Cadell"
 msgstr "Cadell"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:149
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:150
 msgid "Dannen"
 msgstr "Dannen"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:150
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:151
 msgid "Efran"
 msgstr "Efran"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:151
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:152
 msgid "Faren"
 msgstr "Faren"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:154
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:155
 msgid "Tarek"
 msgstr "Tarek"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:155
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:156
 msgid "Hann"
 msgstr "Hann"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:156
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:157
 msgid "Magrid"
 msgstr "Magrid"
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:161
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:162
 msgid "Slay Mordak, the evil mage"
 msgstr "사악한 마법사인 Mordak을 베어라"
 
 #. [objective]: condition=lose
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:165
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:292
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:338
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:143
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:288
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:166
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:281
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:367
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:140
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:562
 msgid "Death of Arvith"
 msgstr "Arvith의 죽음"
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:176
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:179
 msgid ""
-"Use footpads as fodder to protect your loyal units and attack during the day "
-"to minimize the damage your forces take."
+"Use footpads (which are chaotic) as fodder to protect your loyal units, and "
+"attack with your lawful units during the day to minimize the damage your "
+"forces take."
+msgstr ""
+
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:183
+msgid ""
+"Protect your loyal units and attack during the day to minimize the damage "
+"your forces take."
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:187
+msgid "Attack during the day."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:186
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:197
 msgid "Greetings, brother, and welcome home."
 msgstr "반갑소, 형님. 고향에 온걸 환영하죠."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:191
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:202
 msgid "Hail."
 msgstr "반갑군."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:196
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:207
 msgid "Is that all, Arvith? I understand, but..."
 msgstr "이게 답니까, Arvith? 이해는 하지만, 그래도..."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:201
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:212
 msgid "You called, and I came; be content with that. What ails Maghre?"
 msgstr ""
 "네가 불렀고, 그래서 내가 왔다. 그걸로 만족해라. 어떤 놈이 우리 마을 Maghre를 "
 "괴롭히는게냐?"
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:206
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:217
 #, fuzzy
 #| msgid ""
 #| "A dark mage has come upon us; his creatures call him Mordak. They have "
@@ -337,7 +369,7 @@ msgstr ""
 "이 아니오. 우리에겐 형의 부하들과 형의 지휘가 필요하오."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:211
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:222
 msgid ""
 "I can feel Mordak’s foul touch on the hidden currents of the earth and air. "
 "He is somewhere due north of here, I would say not more than two days’ ride."
@@ -347,7 +379,7 @@ msgstr ""
 "있소."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:216
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:227
 msgid ""
 "All right. I will do this for the village. Can you keep the mage off our "
 "backs?"
@@ -356,7 +388,8 @@ msgstr ""
 "록 막아줄 수 있나?"
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:221
+#. "demonstrate" is used in the archaic military sense of meaning "to attack or make a show of force to deceive an enemy" here:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:233
 msgid ""
 "I will go stealthily with a handful of our best scouts and woodsmen. While "
 "you demonstrate against him and kill his creatures, I will try to defeat "
@@ -369,31 +402,215 @@ msgstr ""
 "됐소?"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:226
-msgid "... Aye. Just make sure you’re there when we need you."
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:238
+#, fuzzy
+#| msgid "... Aye. Just make sure you’re there when we need you."
+msgid "...Aye. Just make sure you’re there when we need you."
 msgstr "... 그래. 필요한 순간에 확실히 나오도록 해라."
 
-#. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:237
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:289
+msgid "Tutorial: Arvith"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:290
 msgid ""
-"Baran should be in position by now. Press them, distract the adept so Baran "
-"can spring his trap!"
+"Welcome to <u>A Tale of Two Brothers</u>! Your leader in this campaign is "
+"<i>Arvith</i>, who is a <i>Knight</i>. He is a powerful mounted unit with "
+"two separate melee attacks: a sword (which does many weaker attacks of the "
+"<i>blade</i> damage type), and a lance (which does fewer but stronger "
+"attacks of the <i>pierce</i> damage type). In most other single-player "
+"campaigns your leader doesn't get to start being level 2 already like Arvith "
+"is, so you won't have to worry about leveling up Arvith as much as you might "
+"with your leaders in other campaigns. Don't let that stop you from taking "
+"advantage of his strength, though!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:307
+#, fuzzy
+#| msgid "Horseman"
+msgid "Tutorial: Horseman"
+msgstr "기마병"
+
+#. [message]: speaker=narrator
+#. this hint was originally cribbed from HttT, but changed a bit to fit this campaign better:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:309
+msgid ""
+"You have recruited a <i>Horseman</i>. Horsemen have a spear with which they "
+"can <i>charge</i> into combat, inflicting double normal damage, though "
+"taking double damage in return. This is a melee-range attack that deals "
+"damage of the <i>pierce</i> damage type. Horsemen are unmatched on open "
+"land, though footpads will serve you better in forests or rugged terrain."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:324
+msgid "Tutorial: Bowman"
+msgstr ""
+
+#. [message]: speaker=narrator
+#. this hint was originally cribbed from TSG:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:326
+msgid ""
+"You have recruited a <i>Bowman</i>. Bowmen have a strong ranged attack and "
+"are very effective against units that lack a ranged attack, like Walking "
+"Corpses, Vampire Bats, and Ghouls. They also carry a sword and can defend "
+"themselves against melee attacks."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:341
+msgid "Tutorial: Spearman"
+msgstr ""
+
+#. [message]: speaker=narrator
+#. this hint was originally cribbed from TSG:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:343
+msgid ""
+"You have recruited a <i>Spearman</i>. Spearmen have a strong melee attack "
+"and are effective against most living units. They also have a weak ranged "
+"attack. They form the backbone of Arvith's forces."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:358
+msgid "Tutorial: Footpad"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:359
+msgid ""
+"You have recruited a <i>Footpad</i>. Footpads are <i>chaotic</i>, meaning "
+"that they fight better at night than during the day. They have both melee "
+"and ranged attacks that deal damage of the <i>impact</i> damage type, which "
+"is particularly effective against skeletons. They also have many movement "
+"points, making them excellent scouts."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:374
+msgid "Tutorial: Walking Corpse"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:375
+msgid ""
+"Mordak has recruited a <i>Walking Corpse</i>. Walking Corpses have a melee "
+"attack that can inflict <i>plague</i>, which means that any units that they "
+"kill are turned into Walking Corpses themselves. These newly-risen Walking "
+"Corpses will fight for the side that raised them (in this case, Mordak's), "
+"so make sure not to let any Walking Corpses get the final hit in on any of "
+"your units! They are relatively weak, however, so it is unlikely that they "
+"will do so unless they surround you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:390
+msgid "Tutorial: Vampire Bat"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:391
+msgid ""
+"Mordak has recruited a <i>Vampire Bat</i>. Vampire Bats have a melee attack "
+"with the <i>drain</i> special, meaning that they heal themselves whenever "
+"they successfully hit their opponent. They need to do so because they have "
+"relatively few hitpoints, and would have a hard time surviving otherwise. "
+"Vampire Bats also have many movement points, meaning that you should beware "
+"of them moving long distances in a single turn in order to attack you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:406
+msgid "Tutorial: Dark Adept"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:407
+msgid ""
+"Mordak has recruited a <i>Dark Adept</i>. Dark Adepts are the rare unit "
+"without any melee attack whatsoever, making them an ideal target for your "
+"own melee units. To compensate, they have 2 separate powerful ranged attacks "
+"with the <i>magical</i> special, which gives them a better chance to hit you "
+"even when you are on favorable terrain. In other words, hiding in a village "
+"won't protect you from a Dark Adept's magic; you'll need to flee farther "
+"outside of their movement range to escape them instead."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:422
+msgid "Tutorial: Ghoul"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:423
+msgid ""
+"Mordak has recruited a <i>Ghoul</i>. Ghouls have a melee attack that can "
+"inflict <i>poison</i>. As you do not have access to healers in this "
+"campaign, be sure to retreat any poisoned units to villages in order to cure "
+"them of their poison."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:468
+msgid ""
+"Careful, men, these ghouls are poisonous! Be sure to retreat to a village if "
+"you get poisoned!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#. (EASY difficulty) This line originally said "adept" but Mordak is a Dark Sorcerer, not a Dark Adept:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:480
+#, fuzzy
+#| msgid ""
+#| "Baran should be in position by now. Press them, distract the adept so "
+#| "Baran can spring his trap!"
+msgid ""
+"Baran should be in position by now. Press them, distract the sorcerer so "
+"Baran can spring his trap!"
 msgstr ""
 "Baran이 지금쯤 제 위치에 도착했을 것이다. 몰아붙여라! 그가 기습할 수 있게 수"
 "련자들을 흩어놔라!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:248
+#. NORMAL difficulty; remove the part about "distracting" the enemy mentioned in EASY so that the player isn't as sure what strategy to use:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:484
+#, fuzzy
+#| msgid ""
+#| "Baran should be in position by now. Press them, distract the adept so "
+#| "Baran can spring his trap!"
+msgid ""
+"Baran should be in position by now. Press them so Baran can spring his trap!"
+msgstr ""
+"Baran이 지금쯤 제 위치에 도착했을 것이다. 몰아붙여라! 그가 기습할 수 있게 수"
+"련자들을 흩어놔라!"
+
+#. [message]: speaker=Arvith
+#. HARD difficulty, so have Arvith be a little less commanding (as compared with easier difficulties) about what strategy to use:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:488
+#, fuzzy
+#| msgid ""
+#| "Baran should be in position by now. Press them, distract the adept so "
+#| "Baran can spring his trap!"
+msgid "Baran should be in position by now and springing his trap soon!"
+msgstr ""
+"Baran이 지금쯤 제 위치에 도착했을 것이다. 몰아붙여라! 그가 기습할 수 있게 수"
+"련자들을 흩어놔라!"
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:500
 msgid "Baran has not made his attack!"
 msgstr "Baran이 공격하지 않고 있어!"
 
 #. [message]: role=Mercenary
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:253
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:505
 msgid "Could he have abandoned us?"
 msgstr "그 자가 우릴 저버린걸까요?"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:258
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:510
 msgid ""
 "No... No. This is something else. I’m worried about him... but right now it "
 "means we have to deal with this Mordak ourselves."
@@ -402,22 +619,24 @@ msgstr ""
 "가 알아서 Mordak을 상대해야 된다."
 
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:270
+#. "speaker=unit" is equivalent to "speaker=Mordak" here:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:523
 msgid "Argh!"
 msgstr "아악!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:275
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:528
 msgid "Good work, men! But what has become of my brother?"
 msgstr "잘했다, 제군! 근데 아우는 어찌된거지?"
 
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:280
+#. "speaker=unit" is equivalent to "speaker=Mordak" here (this is his last breath):
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:534
 msgid "Worried about him, are you? E-he-he... hergh... gaargh..."
 msgstr "그를 걱정하는건가, 너? 에-헤-헤..허윽...그으윽..."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:290
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:544
 msgid ""
 "There’s nothing more to be had from this one; we will have to search for "
 "Baran ourselves!"
@@ -426,7 +645,7 @@ msgstr ""
 "것 같다!"
 
 #. [message]: role=Reporter
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:312
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:566
 msgid ""
 "Sir, our scouts report that Baran was seen captured and carried away further "
 "north!"
@@ -435,17 +654,17 @@ msgstr ""
 "다!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:317
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:571
 msgid "That they should dare this! We will give chase at once."
 msgstr "감히 이런 짓을 벌이다니! 당장 추격하겠다."
 
 #. [message]: speaker=Mordak
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:338
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:597
 msgid "Your brother’s plan to ambush me has failed. He is our prisoner now."
 msgstr "나를 습격하려는 네 형제의 계획은 실패했다. 그는 이제 우리의 포로다."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:343
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:602
 msgid ""
 "My brother, kidnapped? I have failed you, Baran! And even now Mordak’s "
 "forces descend upon the village!"
@@ -454,27 +673,29 @@ msgstr ""
 "세가 마을로 내려오고 있어!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:359
+#. "these creatures" refers to only the undead with pierce resistances, i.e., skeletons:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:619
 msgid "I hear these creatures are nigh-immune to our weapons, let us see!"
 msgstr "이 피조물들에겐 우리 무기가 거의 안통한다던데, 한번 볼까!"
 
 #. [message]: speaker=second_unit
-#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:375
+#. with bravado:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:636
 msgid "That was not so hard!"
 msgstr "별로 어렵지 않은데!"
 
 #. [scenario]: id=02_The_Chase
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:5
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:5
 msgid "The Chase"
 msgstr "추격"
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:27
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:23
 msgid "Arvith and his band rode north in search of his missing brother."
 msgstr "Arvith의 무리는 그의 잃어버린 아우를 찾아 북쪽으로 행군했다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:34
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:30
 msgid ""
 "16 V, 363 YW\n"
 "Excerpt from the journal of Arvith of Maghre\n"
@@ -507,7 +728,7 @@ msgstr ""
 "혼들에 합류하게 되어 버린다는 것 같다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:43
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:39
 msgid ""
 "16 V, 363 YW\n"
 "Excerpt from the journal of Arvith of Maghre\n"
@@ -539,80 +760,126 @@ msgstr ""
 "뿐만 아니라... 나는 내 아우를 돌려받길 원한다."
 
 #. [side]: type=Elvish Rider, id=Nil-Galion
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:88
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:77
 msgid "Elves"
 msgstr "엘프"
 
 #. [side]: type=Elvish Rider, id=Nil-Galion
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:93
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:82
 msgid "Nil-Galion"
 msgstr "Nil-Galion"
 
 #. [side]: type=Dark Adept, id=Muff Toras
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:170
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:163
 #, fuzzy
 #| msgid "Catch the kidnappers"
 msgid "Kidnappers"
 msgstr "납치자들을 잡아라"
 
 #. [side]: type=Dark Adept, id=Muff Toras
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:174
+#. [unit]: type=Dark Adept, id=Muff Toras
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:167
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:583
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:617
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:724
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:955
 msgid "Muff Toras"
 msgstr "Muff Toras"
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:261
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:250
 msgid "Fight your way through the woods before the kidnappers escape"
 msgstr "납치자들이 탈출하기 전에 숲을 돌파하라"
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:278
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:267
 msgid "Catch the kidnappers"
 msgstr "납치자들을 잡아라"
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:288
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:277
 msgid "Kill the Dark Adept before his reinforcements arrive"
 msgstr "그의 원군이 오기 전에 어둠의 수련자를 죽여라"
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:304
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:295
 msgid ""
 "The Elvish forces are spread out. Seek to fight them one at a time with "
 "several of your units."
 msgstr ""
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:317
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:309
 msgid ""
 "Use horsemen or footpads to quickly explore the shrouded woods to locate the "
 "kidnappers."
 msgstr ""
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:332
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:325
 msgid ""
 "Separate the Dark Adept from his guards and attack in force for an easy kill."
 msgstr ""
 
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:336
+msgid "The Elvish forces are spread out."
+msgstr ""
+
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:350
+msgid ""
+"Use units with high movement points to quickly explore the shrouded area."
+msgstr ""
+
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:366
+msgid "Try to separate the Dark Adept from his guards."
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:377
+msgid "Attack the elves."
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:391
+msgid "Explore."
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:407
+msgid "Attack the Dark Adept."
+msgstr ""
+
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:375
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:476
 msgid ""
 "Come on, men. A stroll through such lovely green woods, what could be finer?"
 msgstr "어서 가세, 제군. 이렇게 멋진 초록 숲 속에서 산책이라니, 좋지 않은가?"
 
 #. [message]: speaker=Nil-Galion
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:380
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:481
 msgid "You there! Halt and explain yourself."
 msgstr "거기 너희들! 멈추고 정체를 밝혀라."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:385
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:486
 msgid "We’re chasing after some men who kidnapped my brother!"
 msgstr "우린 내 아우를 납치한 자들을 쫓고 있소!"
 
 #. [message]: speaker=Nil-Galion
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:390
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:491
 msgid ""
 "Those men told me their prisoner had attempted to murder their master, and "
 "warned that evil men would follow him. Advance no further, or you will die."
@@ -621,7 +888,7 @@ msgstr ""
 "따라올 것이라고 경고했지. 죽고 싶지 않으면 더 이상 다가오지 마라."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:395
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:496
 msgid ""
 "So much for those ghost stories. Mere elves will not stop me from freeing "
 "Baran!"
@@ -630,7 +897,7 @@ msgstr ""
 "는 없다!"
 
 #. [message]: role=Mercenary
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:400
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:501
 msgid ""
 "I am glad at least that we will not have to face ghosts. But those elves "
 "will have us at a disadvantage; our horses will not maneuver well in the "
@@ -640,7 +907,7 @@ msgstr ""
 "한 상황에 몰아넣을 수 있습니다. 우리 말들은 숲 속에서는 잘 기동하기 어려워요."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:405
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:506
 msgid ""
 "Bah, just stay on the paths; our spearmen and bowmen can fight in the deeper "
 "woods. We have faced and won through greater perils than those amateurs can "
@@ -649,13 +916,21 @@ msgstr ""
 "하, 그저 길만 고수하면 된다. 우리 창병과 궁병들은 깊은 숲속에서도 싸울 수 있"
 "어. 우린 저런 풋내기들보다도 더한 위험을 마주하고 헤쳐나왔지 않은가."
 
+#. [message]: role=Mercenary
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:512
+msgid ""
+"All right, I just hope we have enough spearmen and bowmen to send into the "
+"deeper woods! Remember that you can recruit or recall more of them from our "
+"encampment!"
+msgstr ""
+
 #. [message]: speaker=second_unit
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:435
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:543
 msgid "I see them! There they are!"
 msgstr "놈들이 보입니다! 저기 있어요!"
 
 #. [message]: speaker=Muff Toras
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:440
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:548
 #, fuzzy
 #| msgid ""
 #| "Curses! If they had been an hour slower our master’s reinforcements would "
@@ -668,12 +943,14 @@ msgstr ""
 "데."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:452
+#. since this is on turn 12, the assumption is that the player has been taking it too slow and needs to hurry up:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:561
 msgid "Come on, men, let’s catch those kidnappers!"
 msgstr "가자, 모두들, 저 납치범들을 따라잡자!"
 
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:466
+#. "speaker=unit" is equivalent to "speaker=Muff Toras" here:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:576
 msgid ""
 "Hah! You have captured me, but it will avail you nothing. I sent your "
 "precious brother the mage north with half my men a day since; he will be "
@@ -684,7 +961,7 @@ msgstr ""
 "던전에서 안전하게 감금되어 있을거다."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:471
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:581
 msgid ""
 "My blade is at your throat. Give us the way to my brother now, or I will "
 "spill your wretched blood on the ground."
@@ -693,47 +970,48 @@ msgstr ""
 "않으면 네 더러운 피가 바닥에 뿌려지는 걸 보게 될거다."
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:474
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:584
 msgid "Sithrak"
 msgstr "Sithrak"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:475
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:585
 msgid "Eleben"
 msgstr "Eleben"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:476
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:586
 msgid "Jarlom"
 msgstr "Jarlom"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:477
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:587
 msgid "Hamik"
 msgstr "Hamik"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:481
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:591
 msgid "Akranbral"
 msgstr "Akranbral"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:482
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:592
 msgid "Drakanal"
 msgstr "Drakanal"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:483
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:593
 msgid "Xaskanat"
 msgstr "Xaskanat"
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:484
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:594
 msgid "Katklagad"
 msgstr "Katklagad"
 
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:490
+#. "speaker=unit" is equivalent to "speaker=Muff Toras" here:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:601
 #, fuzzy
 #| msgid ""
 #| "Three days ride to the northeast, in a deserted castle. The passwords to "
@@ -748,12 +1026,12 @@ msgstr ""
 "$first_password_number 와(/과) $second_password_$second_password_number|요."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:498
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:609
 msgid "Bind him and take him with us. If he has played us false, he will die."
 msgstr "이놈을 묶어서 데려가자. 놈이 우릴 거짓으로 놀린거라면 죽일 것이다."
 
 #. [message]: role=Mercenary
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:510
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:639
 msgid ""
 "Captain, what are we riding into? I thought you wanted nothing to do with "
 "Baran any more, not since Toen Caric."
@@ -762,7 +1040,7 @@ msgstr ""
 "지 않으신다고 생각했는데요."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:515
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:644
 msgid ""
 "I’m no longer sure. What’s between us remains, but knowing someone else has "
 "lain hands on him changes things. Mount up, and let’s get moving."
@@ -772,12 +1050,12 @@ msgstr ""
 "다."
 
 #. [event]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:530
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:659
 msgid "Brena"
 msgstr "Brena"
 
 #. [message]: speaker=Brena
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:540
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:669
 msgid ""
 "Greetings. I am Brena, a knight errant. I saw you pursuing and fighting the "
 "foul undead. Are there more of them to be destroyed?"
@@ -786,7 +1064,7 @@ msgstr ""
 "것을 봤지. 더 부술 녀석이 있소?"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:545
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:674
 msgid ""
 "Aye. We think there’s a nest of them north-east of here. They’ve captured my "
 "brother."
@@ -794,7 +1072,7 @@ msgstr ""
 "음. 여기서 북동쪽에 놈들의 아지트가 있는 것 같소. 그들이 내 형제를 잡아갔지."
 
 #. [message]: speaker=Brena
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:550
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:679
 msgid ""
 "I bear a great hatred towards their kind. I will follow and fight them with "
 "you, if you permit."
@@ -803,32 +1081,34 @@ msgstr ""
 "따라가 함께 싸우고 싶소."
 
 #. [message]: role=Mercenary
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:555
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:684
 msgid "He would only slow us down!"
 msgstr "그는 우리 속도만 늦출겁니다!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:560
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:689
 msgid "It is my place to decide this."
 msgstr "결정하는건 나야."
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:562
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:692
 msgid "Oh, all right then. Come along with us."
 msgstr "오, 그럼 좋소. 우리와 같이 갑시다."
 
 #. [message]: speaker=Brena
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:566
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:696
 msgid "Thank you. My comrades and I will help you on your noble quest."
 msgstr "고맙소. 나와 내 동지들이 당신의 고귀한 임무에 동참할 것이오."
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:571
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:702
 msgid "I am sorry. We have not the time to spare."
 msgstr "미안하오. 시간이 별로 없소."
 
 #. [message]: speaker=Brena
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:575
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:706
 msgid ""
 "Take this, then, for I see that you are on a quest. My comrades will help "
 "you whenever you call for them."
@@ -837,22 +1117,42 @@ msgstr ""
 "하면 내 동지들이 당신을 도울 것이오."
 
 #. [message]: speaker=narrator
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:590
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:721
 msgid "You receive 70 pieces of gold!"
 msgstr "당신은 금 70을 받았다!"
 
+#. [message]: role=Mercenary
+#. NORMAL difficulty; this is to make up for Brena not being available here:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:735
+msgid "Oh, by the way, I found some gold!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:750
+#, fuzzy
+#| msgid "You receive 70 pieces of gold!"
+msgid "You receive 35 pieces of gold!"
+msgstr "당신은 금 70을 받았다!"
+
+#. [message]: role=Mercenary
+#. HARD difficutly; "nothing on him" as in, he didn't even have any gold:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:757
+msgid ""
+"It's a shame this kidnapper had nothing on him besides those passwords..."
+msgstr ""
+
 #. [message]: speaker=Muff Toras
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:613
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:775
 msgid "My reinforcements are here!"
 msgstr "원군이 여기 왔다!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:618
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:824
 msgid "He escaped us..."
 msgstr "놈이 달아나 버렸어..."
 
 #. [message]: speaker=Nil-Galion
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:630
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:836
 msgid ""
 "Foolish human, you have killed me but you will not catch the undead in time. "
 "I have fulfilled my contract, and will be reanimated soon to become a lord "
@@ -862,17 +1162,24 @@ msgstr ""
 "나의 계약을 완수했으니 곧 다시 일으켜져 그들의 군대의 군주가 될것이야."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:640
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:846
 msgid "Follow their back trail!"
 msgstr "놈들의 흔적을 쫓아라!"
 
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:865
+msgid ""
+"You will be able to recruit <i>Heavy Infantrymen</i> in the next scenario! "
+"Lessons on using them will be postponed until you recruit one then."
+msgstr ""
+
 #. [scenario]: id=03_Guarded_Castle
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:5
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:5
 msgid "Guarded Castle"
 msgstr "보초가 있는 성"
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:26
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:22
 #, fuzzy
 #| msgid ""
 #| "19 IV, 363 YW\n"
@@ -932,7 +1239,7 @@ msgstr ""
 "처럼 그 무엇도 그를 막을 수 없을 것이다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:34
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:30
 #, fuzzy
 #| msgid ""
 #| "19 IV, 363 YW\n"
@@ -976,97 +1283,148 @@ msgstr ""
 "들을 묶는 끈이 있다면, 그것이 그들의 힘이 될것이다."
 
 #. [side]: type=Dark Sorcerer, id=Rotharik
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:86
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:80
 msgid "Rotharik"
 msgstr "Rotharik"
 
 #. [unit]: role=Guard, id=Guard_leader, type=Assassin
 #. [unit]: role=Guard, type=Bandit
+#. [unit]: role=Guard, type=Thug, type=Bandit
 #. [unit]: role=Guard2, id=Guard2_leader, type=Rogue
 #. [unit]: role=Guard2, type=Thug
 #. [unit]: role=Guard2, type=Bandit
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:94
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:102
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:111
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:119
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:583
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:593
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:602
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:612
+#. [unit]: role=Guard2, type=Thug, type=Bandit
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:88
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:96
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:105
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:117
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:782
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:797
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:812
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:827
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:842
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:851
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:859
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:867
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1091
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1101
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1110
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1120
 msgid "Guard"
 msgstr "경비병"
 
 #. [unit]: id=Knago-Brek, type=Orcish Warrior
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:138
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:140
 msgid "Knago-Brek"
 msgstr "Knago-Brek"
 
 #. [unit]: type=Orcish Grunt
-#. [unit]: type=Orcish Warrior
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:146
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:154
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:163
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:171
+#. [unit]: type=Orcish Grunt, type=Orcish Warrior
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:157
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:165
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:174
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:186
 msgid "Castle Guard"
 msgstr "성채 경비병"
 
 #. [time]: id=indoors_dark_castle
 #. similar string in the wesnoth-help textdomain
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:236
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:264
 msgid "Indoors (dark castle)"
 msgstr ""
 
 #. [time]: id=indoors_dark_castle_lit
-#. similar string in th4e wesnoth-help textdomain
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:252
+#. similar string in the wesnoth-help textdomain
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:280
 msgid "Indoors (lit)"
 msgstr ""
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:308
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:337
 msgid "Rescue Baran"
 msgstr "Baran을 구출하라"
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:320
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:349
 msgid "Kill the dark sorcerer to get the cell key"
 msgstr "흑마법사를 죽이고 감옥 열쇠를 찾아라"
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:334
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:363
 msgid "Move Arvith to the cell with his brother to free him"
 msgstr "Arvith를 그의 아우가 갇힌 감방으로 이동시켜 그를 풀어줄 것"
 
 #. [objective]: condition=lose
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:347
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:147
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:292
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:376
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:144
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:566
 msgid "Death of Baran"
 msgstr "Baran의 사망"
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:359
+#. EASY difficulty; avoid any unnecessary vagueness in this hint (some vagueness will be inevitable here though):
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:389
 msgid ""
 "When facing an unknown situation, take into account details from story and "
 "dialog to inform your strategy."
 msgstr ""
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:368
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:399
 msgid ""
 "The dark sorcerer is a strong unit; attack him with multiple units at once "
 "and try to force him off his keep."
 msgstr ""
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:378
+#. EASY difficulty; avoid any unnecessary vagueness in this hint (some vagueness will be inevitable here though):
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:410
 msgid ""
 "Markings or decorations on hexes may indicate something to be found. If you "
 "can, it is usually a good idea to investigate."
 msgstr ""
 
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:425
+msgid "Hm, I wonder where Baran could be?"
+msgstr ""
+
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:435
+msgid "Beware: the dark sorcerer is a strong unit."
+msgstr ""
+
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:446
+msgid "Try investigating hexes with markings or decorations."
+msgstr ""
+
+#. [objectives]
+#. It is intentional for this hint to just be question marks; since we are on HARD it is supposed to be confusing:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:461
+msgid "???"
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:471
+msgid "The dark sorcerer is strong."
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:482
+#, fuzzy
+#| msgid "Irongate"
+msgid "Investigate."
+msgstr "철문"
+
 #. [message]: speaker=narrator
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:415
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:519
 msgid ""
 "Arvith and his men halt outside of the castle, gazing for a moment at the "
 "hulking mass of stone looming in the fog. There is movement in the mist."
@@ -1075,50 +1433,54 @@ msgstr ""
 "덩이를 바라보았다. 안개 속에서 움직임이 보였다."
 
 #. [message]: speaker=Guard_leader
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:420
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:524
 msgid "Halt! Friend or foe? Give the password."
 msgstr "정지! 누구냐? 암호를 대라."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:425
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:529
 msgid "The password is"
 msgstr "암호는"
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:428
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:533
 #, fuzzy
 #| msgid "Sithrak"
 msgid "Sithrak!"
 msgstr "Sithrak"
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:431
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:537
 #, fuzzy
 #| msgid "Eleben"
 msgid "Eleben!"
 msgstr "Eleben"
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:434
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:541
 #, fuzzy
 #| msgid "Jarlom"
 msgid "Jarlom!"
 msgstr "Jarlom"
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:437
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:545
 #, fuzzy
 #| msgid "Hamik"
 msgid "Hamik!"
 msgstr "Hamik"
 
 #. [message]: speaker=Guard_leader
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:450
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:560
 msgid "Pass, friend."
 msgstr "통과, 아군이다."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:465
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:576
 msgid ""
 "The adept didn’t lead us astray after all. I’ll keep my word, distasteful as "
 "it may be; cut him loose, and let’s be rid of him."
@@ -1126,13 +1488,159 @@ msgstr ""
 "어쨌든 이 조무래기가 우릴 헤매게 만들진 않았군. 별로 내키진 않지만 약속은 지"
 "키도록 하지. 놈을 풀어주고 놔 주어라."
 
+#. [message]: speaker=Muff Toras
+#. EASY difficulty; here Muff Toras is much more polite and servile than he would be on other difficulties:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:598
+msgid ""
+"Thank you so much for sparing me, Sir Arvith! If I may, please permit to "
+"join your forces so that I may redeem myself for having kidnapped your "
+"brother!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:603
+msgid "Fine, if you insist."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:609
+msgid ""
+"Muff Toras will now fight on your side! He is a <i>Dark Adept</i>, which you "
+"should already know about from having faced previously!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. NORMAL difficulty; here Muff Toras is going more for flattery than for sincere thankfulness:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:633
+msgid ""
+"Thank you for your mercy, Sir Arvith! Surely a merciful man such as yourself "
+"will permit me to join your forces?"
+msgstr ""
+
+#. [message]: role=objector
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:661
+msgid ""
+"Don't let him! I'll never allow myself to fight alongside a dark magic user "
+"like him!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:666
+msgid "Hm..."
+msgstr ""
+
+#. [option]
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:669
+msgid "Very well, Muff Toras! You may join my forces!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. [message]: role=objector
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:673
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:706
+msgid "Thank you for making the right choice!"
+msgstr ""
+
+#. [message]: role=objector
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:678
+msgid ""
+"Hmph, that's it! I quit! I'm sorry, Arvith, but my moral beliefs against "
+"dark magic compel me to leave!"
+msgstr ""
+
+#. [option]
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:688
+msgid ""
+"I'm sorry, Muff Toras, but I must take into account my men's objections."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:692
+msgid ""
+"While I cannot permit you to fight alongside us, I shall still permit you to "
+"leave unharmed, however."
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:697
+msgid "Hmph, suit yourself..."
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. imagine this is Metal Gear Solid and Solid Snake has just been caught in a spotlight:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:754
+msgid "!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:763
+msgid ""
+"You! But you gave us the correct passwords though! Why would you lead us "
+"true if you were only planning on betraying us?!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:768
+msgid ""
+"Hahaha, I tricked you! My plan all along was to lead you into a trap! Hey "
+"guards, time to return to duty!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:874
+msgid "Argh, the guards have returned! Watch your backs, men!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:888
+msgid "Time to correct my mistake of having left you alive!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:900
+msgid "Ugh, so much for my trap..."
+msgstr ""
+
 #. [message]: speaker=Guard_leader
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:476
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:910
 msgid "Wrong! Die!"
 msgstr "틀렸다! 죽어!"
 
+#. [message]: speaker=narrator
+#. Muff Toras corrects Arvith; possibilities for the variables are the passwords listed previously:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:957
+msgid ""
+"You fool! I <b><i>told</i></b> you it was $first_pwd_name|! Where did you "
+"even come up with $pwd_picked_name from?!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#. directed at Muff Toras:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:962
+#, fuzzy
+#| msgid "Catch the kidnappers"
+msgid "Shut up, kidnapper!"
+msgstr "납치자들을 잡아라"
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:984
+msgid "Tutorial: Heavy Infantryman"
+msgstr ""
+
+#. [message]: speaker=narrator
+#. "In return" here is to contrast a strength against the weaknesses previously mentioned:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:986
+msgid ""
+"You have recruited a <i>Heavy Infantryman</i>. Heavy Infantrymen have bulky "
+"armor which makes them slow and easy for enemies to hit. In return, they "
+"wield a mace for a melee attack which can deal massive <i>impact</i> damage, "
+"which is especially powerful against skeletons."
+msgstr ""
+
 #. [message]: speaker=Knago-Brek
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:494
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1002
 #, fuzzy
 #| msgid ""
 #| "Haha! We not kill people for long time. Weapon wants blood. We now kill "
@@ -1144,7 +1652,7 @@ msgstr ""
 "하하! 인간을 죽여본지도 오래됐는걸. 내 칼이 피를 원한다. 인간을 죽이자!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:499
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1007
 #, fuzzy
 #| msgid ""
 #| "My sword-arm has a say in who will do the dying. Come on, men, let’s kill "
@@ -1155,119 +1663,195 @@ msgid ""
 msgstr "누가 죽음을 맞이할 지는 내 오른팔에 달렸다. 가자, 오크를 죽이자."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:511
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1019
 msgid "One less braggart orc in the world."
 msgstr "세상에서 허풍쟁이 오크가 또 하나 사라졌군."
 
 #. [message]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:520
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1028
 msgid "Captain, what are <i>orcs</i> doing this far south?"
 msgstr "대장, <i>오크가</i> 이 먼 남쪽에는 웬일일까요?"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:525
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1033
 msgid "Good question. Perhaps my brother will have found out."
 msgstr "좋은 질문이다. 어쩌면 아우가 알아냈을지도 모르지."
 
 #. [message]: speaker=Guard2_leader
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:625
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1150
 msgid "Are you our relief arriving? Does this mean we get to leave here now?"
 msgstr "교대인가? 우린 이제 가도 되는 거겠지?"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:630
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1155
 msgid "Um, yes. Fine. You can go."
 msgstr "어, 그래, 괜찮소. 가도 되오."
 
 #. [message]: speaker=Guard2_leader
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:635
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1160
 msgid "Um, you’re supposed to give the password."
 msgstr "어, 암호를 대야 하오."
 
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1177
+msgid "Don't worry, he knows it, don't you, Arvith?"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. case where player failed first password challenge; "this" time is as in opposed to the previous one:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1190
+msgid "You remember what I told you <b><i>this</i></b> time, right, Arvith?"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1198
+msgid "Um, you do remember what I told you, right, Arvith?"
+msgstr ""
+
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:640
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1207
 msgid "Oh, of course. I had nearly forgotten."
 msgstr "오, 물론이지. 깜빡할 뻔 했군."
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:643
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1211
 #, fuzzy
 #| msgid "Akranbral"
 msgid "Akranbral!"
 msgstr "Akranbral"
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:646
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1215
 #, fuzzy
 #| msgid "Drakanal"
 msgid "Drakanal!"
 msgstr "Drakanal"
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:649
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1219
 #, fuzzy
 #| msgid "Xaskanat"
 msgid "Xaskanat!"
 msgstr "Xaskanat"
 
 #. [option]
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:652
+#. spoken by Arvith:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1223
 #, fuzzy
 #| msgid "Katklagad"
 msgid "Katklagad!"
 msgstr "Katklagad"
 
 #. [message]: speaker=Guard2_leader
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:665
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1236
 msgid "Thanks! Irritating little formality, isn’t it?"
 msgstr "고맙소! 좀 짜증나는 절차지, 안 그렇소?"
 
 #. [message]: speaker=Guard2_leader
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:675
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1246
 msgid "That’s the wrong password! These aren’t our relief! Get them!"
 msgstr "틀린 암호야! 우리 교대가 아니잖아! 잡아라!"
 
-#. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:683
+#. [message]: speaker=Muff Toras
+#. EASY difficulty; Muff Toras corrects Arvith; possibilities for the variables are the passwords listed previously:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1303
 msgid ""
-"I think I should better support my men at the front to make sure we can free "
-"my brother."
+"You fool! How could you remember the first password and then forget that I "
+"told you that the second one was $second_pwd_name|? Where did you even get "
+"$pwd_picked_name from?"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. on NORMAL and HARD Muff Toras still yells at you here, but doesn't tell you the correct password:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1309
+msgid ""
+"You fool! How could you remember the first password and then forget the "
+"second one? Where did you even get $pwd_picked_name from?"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. this is the case where the player failed first password challenge, so Muff Toras is correcting Arvith AGAIN; possibilities for the variables are the passwords listed previously:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1323
+msgid ""
+"You absolute idiot! You forget not only the first password, but also that I "
+"told you that the second password was $second_pwd_name|? Where do you even "
+"get these wacky ideas for passwords like $pwd_picked_name from? Actually, "
+"you know what, I don't even care; I'm out of here."
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. EASY difficulty; Muff Toras corrects Arvith; possibilities for the variables are the passwords listed previously:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1336
+msgid ""
+"You fool! I <b><i>told</i></b> you it was $second_pwd_name|! Where did you "
+"even come up with $pwd_picked_name from?!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#. this line probably won't be reached, but in case it is, "it" refers to the second password that Arvith just forgot:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1342
+msgid "You fool! I had told you what it was, too!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#. the "...well, in any case" part is so this line works regardless of what came before it;
+#. if Muff Toras was yelling at him previously, just assume Arvith is purposefully ignoring him:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1359
+#, fuzzy
+#| msgid ""
+#| "I think I should better support my men at the front to make sure we can "
+#| "free my brother."
+msgid ""
+"...well, in any case, I think I should better support my men at the front to "
+"make sure we can free my brother."
 msgstr "아우를 구하려면 내가 앞에서 부대를 잘 받쳐주어야겠어."
 
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1377
+msgid ""
+"I'm sorry, master, but I have realized the error of my ways in following "
+"you. No more! It's time for your schemes to end!"
+msgstr ""
+
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:695
+#. "speaker=unit" is equivalent to "speaker=Rotharik" here (this is his last breath):
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1384
 msgid "Your hand or Tairach’s, death is still death... (argh)"
 msgstr "네 손에 죽든 Tairach의 손에 죽든, 죽는건 죽는거지... (악)"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:705
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1394
 msgid "‘Tairach’? Who or what is Tairach?"
 msgstr "'Tairach'? Tairach가 사람인가 물건인가?"
 
 #. [message]: speaker=second_unit
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:710
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1399
 msgid "There’s a key in his robes."
 msgstr "로브 안에 열쇠가 있습니다."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:720
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1409
 msgid ""
 "That may well be the key to the cell they’re holding Baran in! I will take "
 "it."
 msgstr "분명 그게 Baran을 가둔 감방 열쇠일거다! 내가 갖지."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:748
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1437
 msgid "It may be important, I best take it."
 msgstr ""
 
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:766
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1455
 msgid "This castle seems as dark as a cave!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:772
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1462
 msgid ""
 "This castle is under a constant, <i>chaotic</i> time of day (equivalent to "
 "permanent night), except for illuminated hexes adjacent to lit stone walls "
@@ -1275,39 +1859,47 @@ msgid ""
 "weaker and enemy units stronger."
 msgstr ""
 
-#. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:792
-msgid "Look what I have found in here! I can count a hundred pieces of gold."
-msgstr "내가 뭘 찾았나 보라구! 100 gold야."
+#. [message]: speaker=narrator
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1470
+msgid ""
+"This castle is under a constant, <i>chaotic</i> time of day, except for "
+"illuminated hexes adjacent to lit stone walls. Keep this in mind when "
+"placing your units."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1478
+msgid ""
+"The time of day in this castle is mostly constantly <i>chaotic</i> "
+"(exceptions apply)."
+msgstr ""
 
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:806
-msgid "Look what I have found in here! I can count fifty pieces of gold."
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1498
+#, fuzzy
+#| msgid "Look what I have found in here! I can count fifty pieces of gold."
+msgid "Look what I have found in here! I can count $gold_amt pieces of gold."
 msgstr "내가 뭘 찾았나 보라구! 50 gold야."
 
 #. [message]: speaker=unit
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:845
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1538
 msgid "I found Baran. He is in this cell."
 msgstr "Baran을 찾았다. 감방에 있어."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:856
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1549
 msgid "It’s good to see you, Arvith."
 msgstr "다시 보니 반갑군요, Arvith."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:861
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1554
 msgid "And you too, brother."
 msgstr "나도 그렇네, 아우."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:867
-msgid ""
-"You must be one of Arvith’s men. Please help me get out of this dungeon."
-msgstr "당신은 Arvith의 부하로군. 내가 이 던전에서 나가게 좀 도와주시오."
-
-#. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:874
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1559
 msgid ""
 "The accursed dark sorcerer Rotharik has imprisoned me behind this magically "
 "enhanced iron gate. It can only be opened with the correct key. You must get "
@@ -1316,32 +1908,104 @@ msgstr ""
 "빌어먹을 흑마법사 Rotharik이 날 이 마법의 강화문 안에 가뒀습니다. 제대로 된 "
 "키가 있어야만 열 수 있지요. 날 풀어주려면 Rotharik에게서 그걸 가져와야 하오."
 
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1570
+msgid ""
+"You! You were one of my kidnappers! Why have you returned, to torture me, I "
+"assume? Well, you won't break me!"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1574
+msgid ""
+"Shush! I'm not here to harm you! Your brother Arvith captured me, but he "
+"spared my life, so I work for him now! We're going to get you out of here!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1578
+msgid ""
+"Hm... I can't say I really trust you after you kidnapped me once, but then "
+"again, it's not like I have much choice here, so I might as well wait to see "
+"if you can deliver..."
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1582
+msgid "That's all I ask."
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1586
+msgid ""
+"Well, as one of my kidnappers, you must already know that I can't just "
+"fireball my way out of here, due to the magical enhancements your master — "
+"er, I mean, FORMER master Rotharik made to this iron gate."
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1590
+msgid ""
+"That's correct; it can only be opened with the correct key. We are working "
+"on getting it from Rotharik in order to free you."
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1594
+msgid "You'd better be!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1601
+#, fuzzy
+#| msgid ""
+#| "The accursed dark sorcerer Rotharik has imprisoned me behind this "
+#| "magically enhanced iron gate. It can only be opened with the correct key. "
+#| "You must get it from him to free me."
+msgid ""
+"You must be one of Arvith’s men. Please help me get out of this dungeon in "
+"which the accursed dark sorcerer Rotharik has imprisoned me! The iron gate "
+"is magically enhanced and can only be opened with the correct key. You must "
+"get it from Rotharik to free me!"
+msgstr ""
+"빌어먹을 흑마법사 Rotharik이 날 이 마법의 강화문 안에 가뒀습니다. 제대로 된 "
+"키가 있어야만 열 수 있지요. 날 풀어주려면 Rotharik에게서 그걸 가져와야 하오."
+
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:886
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1615
 msgid ""
 "I have already met, and killed, the sorcerer. Is this the key to which you "
 "referred?"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:890
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1619
 msgid ""
 "Yes, it is. Come, unlock this cell door, and let us depart this place, "
 "brother!"
 msgstr ""
 
+#. [message]: speaker=narrator
+#. "we" here is the "royal we":
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1650
+msgid ""
+"You can now control Baran! However, as he will remain imprisoned for the "
+"remainder of this scenario, we shall wait until the next one to give you "
+"tips on using him."
+msgstr ""
+
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:944
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1682
 msgid "Thank you for saving me. I... was not certain you would come."
 msgstr "구해줘서 감사합니다. 난... 형 올거라는 기대는 별로 하지 않고 있었소."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:949
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1687
 msgid "Have you no faith in your brother, Baran?"
 msgstr "자기 형도 못믿는건가, Baran?"
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:954
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1692
 msgid ""
 "It’s not that. Perhaps I deserved to rot here. I failed you. I failed you "
 "again."
@@ -1350,7 +2014,7 @@ msgstr ""
 "을 실망시켰소. 다시 한번 말이오."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:959
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1697
 msgid ""
 "That is as may be. But you are my brother still. And... I never doubted you "
 "would have come for me."
@@ -1359,7 +2023,7 @@ msgstr ""
 "거라는걸 추호도 의심해본 일이 없다."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:964
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1702
 msgid ""
 "It was no great trial, after all. A few elves, one or two dark sorcerers, a "
 "gang of orcs and some undead. Really just a day’s work for the company."
@@ -1368,32 +2032,34 @@ msgstr ""
 "언데드 얼마쯤. 우리에겐 거의 일상이나 마찬가지지."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:969
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1707
 msgid "Thank you for coming to my aid. Let us return to the village."
 msgstr "날 도와주러 와서 고맙소. 마을로 돌아갑시다."
 
 #. [unit]: id=Rotharik, type=Orcish Assassin
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:1003
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1743
 msgid "Minion of Tairach"
 msgstr ""
 
 #. [message]: speaker=Rotharik
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:1015
+#. speaker being "Rotharik" here is an id used by both Rotharik himself and the Orcish Assassin ("Minion of Tairach")
+#. that replaces him if he's dead; in either case, he is male:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1757
 msgid "You are too late! Your brother is already dead! Muahahaha...!"
 msgstr "너무 늦었구나! 네 형제는 이미 죽었다! 므하하하하...!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:1020
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:1762
 msgid "Argh!!"
 msgstr "아악!!"
 
 #. [scenario]: id=04_Return_to_the_Village
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:5
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:5
 msgid "Return to the Village"
 msgstr "마을로의 귀환"
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:26
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:22
 msgid ""
 "27 V, 363 YW\n"
 "Excerpt from the journal of Baran of Maghre\n"
@@ -1427,7 +2093,7 @@ msgstr ""
 "이 가졌다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:34
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:30
 msgid ""
 "27 V, 363 YW\n"
 "Excerpt from the journal of Baran of Maghre\n"
@@ -1465,30 +2131,43 @@ msgstr ""
 "의 시간들의 잔재인가, 아니면 뭔가 실제로 있을 일의 경고인가?"
 
 #. [side]: type=Orcish Warlord, id=Tairach
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:87
-#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:56
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:83
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/05_Epilogue.cfg:56
 msgid "Tairach"
 msgstr "Tairach"
 
 #. [side]: type=Longbowman, id=Reeve Hoban
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:116
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:113
 msgid "Reeve Hoban"
 msgstr "행정관 Hoban"
 
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:139
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:136
 msgid "Find out what is happening in the village"
 msgstr "마을에 무슨 일이 일어났는지 알아낸다"
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:155
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:154
 msgid ""
 "Recruit or Recall some high-move units to be able to see as far as possible "
 "through the fog for approaching units."
 msgstr ""
 
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:158
+msgid "Watch your visibility with this fog."
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:162
+msgid "Watch out!"
+msgstr ""
+
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:171
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:186
 msgid ""
 "There. The village is just across those hills, and already I see men coming "
 "to greet us!"
@@ -1496,7 +2175,7 @@ msgstr ""
 "저기다. 저 언덕 너머에 마을이 보여. 벌써 우릴 환영하는 인파가 보이는데!"
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:176
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:205
 msgid ""
 "No, they are fleeing from something. We must find out what is happening over "
 "there!"
@@ -1505,65 +2184,134 @@ msgstr ""
 "지 알아야겠소!"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:181
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:210
 msgid "Men! Ready your arms!"
 msgstr "전군! 전투 준비!"
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:186
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:215
 msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
 msgstr ""
 "행정관 Hoban을 찾아야 합니다. 아마 그가 이게 무슨 일인지 알고 있을거요."
 
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:221
+msgid "Aye, I shall have to assign some of my men to scout for him!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:226
+msgid ""
+"I would suggest recruiting or recalling some footpads or horsemen for that "
+"task!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:240
+msgid "Tutorial: Baran"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:241
+msgid ""
+"Baran is now free for you to use to his full potential! Baran is a <i>Red "
+"Mage</i>. He is unique among your units in that he has a <i>neutral</i> "
+"alignment. He has a strong ranged attack in which he hurls powerful magical "
+"fireballs at enemies. Unfortunately, the enemies against which these "
+"fireballs are strongest (undead and wood-based enemies) aren't available "
+"here at the end of this campaign for you to fry. Baran can also do a weak "
+"melee attack with his staff, dealing <i>impact</i> damage to enemies."
+msgstr ""
+
 #. [message]: speaker=second_unit
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:201
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:257
 msgid "We’re almost there!"
 msgstr "거의 다 왔다!"
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:206
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:262
 msgid "That warlord! It’s..."
 msgstr "저 무장은! 저건..."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:211
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:267
 msgid "Yes, I’d know that face anywhere. Especially after what you did to it."
 msgstr ""
 "그래, 어디서라도 저 얼굴은 알아보겠어. 특히 네가 저놈에게 했던 걸 생각하면 말"
 "이지."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:216
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:272
 msgid "The warlord from Toen Caric."
 msgstr "Toen Caric의 무장."
 
 #. [message]: speaker=Tairach
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:221
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:277
 msgid "You! The mage who scarred me with fire! KILL THEM!"
 msgstr "너! 나한테 불로 흉터를 남긴 그 마법사다! <b>죽여버려!</b>"
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:226
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:282
 msgid "Let’s finish what we started, brother."
 msgstr "우리가 시작한 일을 끝내도록 하죠, 형님."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:231
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:287
 msgid "Aye. I’ll be the right arm, and you’ll be the left. Let’s go!"
 msgstr "그래. 내가 오른팔이 되고, 네가 왼팔이 되라. 가자!"
 
+#. [message]: speaker=second_unit
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:326
+msgid "Hey look! It's Reeve Hoban!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:332
+#, fuzzy
+#| msgid "Reeve Hoban"
+msgid "One of Reeve Hoban's men!"
+msgstr "행정관 Hoban"
+
+#. [message]: speaker=unit
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:337
+msgid "Hey Reeve! Look who showed up!"
+msgstr ""
+
 #. [message]: speaker=Reeve Hoban
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:250
+#. Reeve starts to say "Arvith" but then interrupts himself:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:384
+msgid ""
+"Hello Arv-wait, what's this? Why do you have a dark mage with you, Arvith?!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#. "Hold" as in "Hold up" or "Hold your fire" or "Hold your horses":
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:389
+msgid ""
+"Hold, fair Reeve. This mage agreed to fight alongside me after I spared his "
+"life."
+msgstr ""
+
+#. [message]: speaker=Reeve Hoban
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:393
+msgid ""
+"Well, if you trust him, I guess that I can do so, as well. Anyways, I am "
+"glad that you have returned."
+msgstr ""
+
+#. [message]: speaker=Reeve Hoban
+#. Now that we lift some fog above, Reeve being able to see Arvith is probably literal now, although there's still a chance it's figurative:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:400
 msgid "I am glad to see you returned."
 msgstr "돌아오신 걸 보니 기쁘군요."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:255
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:407
 msgid "No gladder than I am to be here. But what has happened to Maghre?"
 msgstr "설마 나만큼 기쁘겠는가. 근데 Maghre에 무슨 일이 일어난건가?"
 
 #. [message]: speaker=Reeve Hoban
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:260
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:412
 msgid ""
 "Soon after you departed we were beset by orcs. With half the men of Maghre "
 "gone, we could not stop them."
@@ -1572,7 +2320,7 @@ msgstr ""
 "당하고도 그들의 진격을 막을 수 없었습니다."
 
 #. [message]: speaker=Reeve Hoban
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:265
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:417
 msgid ""
 "The orcish warlord aims to enslave us. We will not be able to hold out for "
 "much longer."
@@ -1580,7 +2328,8 @@ msgstr ""
 "오크들을 이끄는 무장은 우리를 노예로 만들려고 합니다. 더는 버티기가 힘듭니다."
 
 #. [message]: speaker=Reeve Hoban
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:270
+#. some archaic wording here; "fell" in the sense of "strong and cruel" or "eager and unsparing":
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:423
 msgid ""
 "Have a care, his men are fell fighters and have killed many. Very few remain "
 "who can bear arms, but I will send them to aid you in battle."
@@ -1588,30 +2337,114 @@ msgstr ""
 "조심하십시오, 그의 병사는 악랄한 전사들로 많은 사람을 죽였습니다. 무기를 들 "
 "수 있는 자는 얼마 남지 않았지만, 여러분의 전투를 돕도록 보내드리겠습니다."
 
+#. [message]: speaker=Reeve Hoban
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:449
+msgid ""
+"Ungh... My time has come... Arvith... Baran... the defense of Maghre now "
+"falls to the two of you..."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:454
+msgid "No! Reeve!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:459
+msgid "You orcs will pay for this!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:471
+msgid ""
+"...well, we can't sit around mourning Reeve while we are still beset by "
+"orcs... To the defense of Maghre, men!"
+msgstr ""
+
+#. [message]: speaker=Baran
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:476
+msgid "Maybe we can take up his position for him?"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:481
+msgid "We shall see!"
+msgstr ""
+
+#. [message]: speaker=Reeve Hoban
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:501
+msgid ""
+"Here, have some gold. You could probably put it to better use than I can."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:507
+msgid "It appears Reeve left behind some gold in his keep!"
+msgstr ""
+
 #. [objective]: condition=win
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:284
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:558
 msgid "Slay the Orcish Warlord to free the village"
 msgstr "오크군의 지도자를 베어 마을을 해방시켜라"
 
 #. [objectives]
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:300
+#. EASY difficulty; avoid all vagueness in this hint:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:576
 msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
 msgstr ""
 
+#. [objectives]
+#. NORMAL difficulty; hint should be somewhat vague:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:580
+msgid "Have Arvith make use of Reeve Hoban’s keep."
+msgstr ""
+
+#. [objectives]
+#. HARD difficulty; hint should be even vaguer:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:584
+#, fuzzy
+#| msgid "Reeve Hoban"
+msgid "Use Reeve Hoban’s keep."
+msgstr "행정관 Hoban"
+
 #. [message]: speaker=Tairach
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:341
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:625
 msgid "Today, you shall pay for disfiguring my face, mage!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:346
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:630
 msgid ""
 "I have already paid with the lives of my men at Toen Caric. It is time I "
 "righted that mistake and finished this once and for all."
 msgstr ""
 
+#. [message]: speaker=Tairach
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:670
+msgid "You again!"
+msgstr ""
+
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:355
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:675
+msgid "It is time for me to finish what Baran started!"
+msgstr ""
+
+#. [message]: speaker=Tairach
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:715
+msgid ""
+"Hey wait, weren't you one of that insignificant mage Rotharik's men? Weren't "
+"you supposed to be capturing Baran and bringing him to me?"
+msgstr ""
+
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:720
+msgid ""
+"Yes, that was originally the plan. However, I've changed my mind: I'd much "
+"rather kill you instead!"
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:736
 msgid ""
 "It is finished. We’ve defeated him at last. It was good to have you at my "
 "side, Baran."
@@ -1619,7 +2452,7 @@ msgstr ""
 "이걸로 끝이다. 마침내 놈을 무찔렀군. 내 곁에 네가 있어 다행이었다, Baran."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:360
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:741
 msgid ""
 "So much has been destroyed. It will be difficult to repair all that the orcs "
 "and undead have wrecked. And they could come again."
@@ -1628,7 +2461,7 @@ msgstr ""
 "겁니다. 또 그들이 다시 쳐들어올지도 모르오."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:365
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:746
 msgid ""
 "I must go back to earning my living. But we have our amulets, little "
 "brother. If you are beset again, I will come."
@@ -1637,23 +2470,23 @@ msgstr ""
 "약 자네가 위기에 처하면, 내가 찾아올걸세."
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:383
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:765
 msgid "I don’t think we can rescue anyone from these villages. It is too late."
 msgstr "이 마을에서 아무도 구해내지 못할 것 같다. 너무 늦었어."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:388
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:770
 msgid "I was too weak to protect these people. Oh, why did this happen to me?!"
 msgstr ""
 "난 이 사람들을 지키기엔 너무 약했어. 아 왜 내게 이런 일이 일어난 거지?!?"
 
 #. [scenario]: id=05_Epilogue
-#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:5
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/05_Epilogue.cfg:5
 msgid "A Tale of Two Brothers — Epilogue"
 msgstr "두 형제 이야기 - 에필로그"
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:18
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/05_Epilogue.cfg:18
 msgid ""
 "22 IX, 365 YW\n"
 "Excerpt from the journal of Arvith of Maghre\n"
@@ -1682,7 +2515,7 @@ msgstr ""
 "러 갔다."
 
 #. [part]
-#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:27
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/05_Epilogue.cfg:27
 msgid ""
 "22 IX, 365 YW\n"
 "Excerpt from the journal of Arvith of Maghre\n"
@@ -1704,28 +2537,46 @@ msgstr ""
 "\n"
 "하지만 한편으로는 쉬면서 평화를 즐기는 것도 나쁘지 않다."
 
-#: data/campaigns/Two_Brothers/utils/characters.cfg:6
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:6
 msgid "Arvith"
 msgstr "Arvith"
 
 #. [message]: speaker=Arvith
-#: data/campaigns/Two_Brothers/utils/characters.cfg:21
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:25
 msgid "All is lost now that I am dead..."
 msgstr "내가 죽으면 모든 게 끝이다..."
 
 #. [message]: speaker=Baran
-#: data/campaigns/Two_Brothers/utils/characters.cfg:39
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:43
 msgid "It is over, I am vanquished."
 msgstr "끝났다, 나는 패배했어."
 
+#. [message]: speaker=Muff Toras
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:62
+msgid "Ugh, I guess I should have seen this coming..."
+msgstr ""
+
+#. [message]: speaker=Arvith
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:67
+msgid "What a shame, just as he was starting to redeem himself, too..."
+msgstr ""
+
 #. [unit]: id=Baran, type=Red Mage
-#: data/campaigns/Two_Brothers/utils/characters.cfg:128
+#: Two_Brothers_With_A_Third_Difficulty/utils/characters.cfg:154
 msgid "Baran"
 msgstr "Baran"
 
-#: data/campaigns/Two_Brothers/utils/macros.cfg:4
+#: Two_Brothers_With_A_Third_Difficulty/utils/macros.cfg:4
 msgid "Hint:"
 msgstr ""
+
+#~ msgid ""
+#~ "Look what I have found in here! I can count a hundred pieces of gold."
+#~ msgstr "내가 뭘 찾았나 보라구! 100 gold야."
+
+#~ msgid ""
+#~ "You must be one of Arvith’s men. Please help me get out of this dungeon."
+#~ msgstr "당신은 Arvith의 부하로군. 내가 이 던전에서 나가게 좀 도와주시오."
 
 #~ msgid "$first_password_1|!"
 #~ msgstr "$first_password_1|!"
@@ -1753,9 +2604,6 @@ msgstr ""
 
 #~ msgid "Everything is lost now that I am dead..."
 #~ msgstr "내가 죽으면 모든 게 끝이야..."
-
-#~ msgid "Irongate"
-#~ msgstr "철문"
 
 #~ msgid "Arne"
 #~ msgstr "Arne"
