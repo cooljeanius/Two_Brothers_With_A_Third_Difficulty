@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-04-10 03:45 UTC\n"
+"POT-Creation-Date: 2022-04-10 05:15 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -299,6 +299,7 @@ msgid "Tutorial: Horseman"
 msgstr ""
 
 #. [message]: speaker=narrator
+#. this hint was originally cribbed from HttT, but changed a bit to fit this campaign better:
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:309
 msgid "You have recruited a <i>Horseman</i>. Horsemen have a spear with which they can <i>charge</i> into combat, inflicting double normal damage, though taking double damage in return. This is a melee-range attack that deals damage of the <i>pierce</i> damage type. Horsemen are unmatched on open land, though footpads will serve you better in forests or rugged terrain."
 msgstr ""
@@ -309,6 +310,7 @@ msgid "Tutorial: Bowman"
 msgstr ""
 
 #. [message]: speaker=narrator
+#. this hint was originally cribbed from TSG:
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:326
 msgid "You have recruited a <i>Bowman</i>. Bowmen have a strong ranged attack and are very effective against units that lack a ranged attack, like Walking Corpses, Vampire Bats, and Ghouls. They also carry a sword and can defend themselves against melee attacks."
 msgstr ""
@@ -319,6 +321,7 @@ msgid "Tutorial: Spearman"
 msgstr ""
 
 #. [message]: speaker=narrator
+#. this hint was originally cribbed from TSG:
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:343
 msgid "You have recruited a <i>Spearman</i>. Spearmen have a strong melee attack and are effective against most living units. They also have a weak ranged attack. They form the backbone of Arvith's forces."
 msgstr ""
@@ -1638,6 +1641,7 @@ msgid "Well, if you trust him, I guess that I can do so, as well. Anyways, I am 
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
+#. Now that we lift some fog above, Reeve being able to see Arvith is probably literal now, although there's still a chance it's figurative:
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:400
 msgid "I am glad to see you returned."
 msgstr ""
