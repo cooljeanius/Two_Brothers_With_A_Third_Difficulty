@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-26 00:20 UTC\n"
+"POT-Creation-Date: 2022-07-26 00:24 UTC\n"
 "PO-Revision-Date: 2020-08-10 20:15+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -114,7 +114,7 @@ msgstr "也特别感谢我没有提到的其他人。"
 
 #. [about]
 #: Two_Brothers_With_A_Third_Difficulty/_main.cfg:108
-msgid "Japanese Translation"
+msgid "Supplemental Japanese Translations"
 msgstr ""
 
 #. [scenario]: id=01_Rooting_Out_a_Mage

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-ca\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-26 00:20 UTC\n"
+"POT-Creation-Date: 2022-07-26 00:24 UTC\n"
 "PO-Revision-Date: 2008-02-12 21:37+0100\n"
 "Last-Translator: Bernardo Arlandis Mañó <berarma@ya.com>\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
@@ -122,7 +122,7 @@ msgstr "I agraïments especials a tots aquells que haja oblidat mencionar."
 
 #. [about]
 #: Two_Brothers_With_A_Third_Difficulty/_main.cfg:108
-msgid "Japanese Translation"
+msgid "Supplemental Japanese Translations"
 msgstr ""
 
 #. [scenario]: id=01_Rooting_Out_a_Mage

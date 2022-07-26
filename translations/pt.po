@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.12 (wesnoth-tb)\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-26 00:20 UTC\n"
+"POT-Creation-Date: 2022-07-26 00:24 UTC\n"
 "PO-Revision-Date: 2019-07-27 14:03+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: wesn-pt-trans <wesn-pt-trans-users@lists.sourceforge.net>\n"
@@ -111,7 +111,7 @@ msgstr "E agradecimentos especiais a todos que esqueci por mencionar."
 
 #. [about]
 #: Two_Brothers_With_A_Third_Difficulty/_main.cfg:108
-msgid "Japanese Translation"
+msgid "Supplemental Japanese Translations"
 msgstr ""
 
 #. [scenario]: id=01_Rooting_Out_a_Mage

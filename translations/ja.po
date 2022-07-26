@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-26 00:20 UTC\n"
+"POT-Creation-Date: 2022-07-26 00:24 UTC\n"
 "PO-Revision-Date: 2018-08-18 04:59+0000\n"
 "Last-Translator: 堀 秀幸 <Hide.HORI@gmail.com>, 2020\n"
 "Language-Team: Japanese (https://www.transifex.com/wesnoth-jp/teams/60513/"
@@ -115,7 +115,7 @@ msgstr "そして、私が言及し忘れた他の全ての人達へ、特別な
 
 #. [about]
 #: Two_Brothers_With_A_Third_Difficulty/_main.cfg:108
-msgid "Japanese Translation"
+msgid "Supplemental Japanese Translations"
 msgstr ""
 
 #. [scenario]: id=01_Rooting_Out_a_Mage

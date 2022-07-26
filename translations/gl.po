@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-26 00:20 UTC\n"
+"POT-Creation-Date: 2022-07-26 00:24 UTC\n"
 "PO-Revision-Date: 2018-04-14 03:30+0100\n"
 "Last-Translator: Adrian Chaves <adrian@chaves.io>\n"
 "Language-Team: Galician <kde-i18n-doc@kde.org>\n"
@@ -124,7 +124,7 @@ msgstr "E especialmente gracias a todos aqueles a quen esquecín mencionar."
 
 #. [about]
 #: Two_Brothers_With_A_Third_Difficulty/_main.cfg:108
-msgid "Japanese Translation"
+msgid "Supplemental Japanese Translations"
 msgstr ""
 
 #. [scenario]: id=01_Rooting_Out_a_Mage

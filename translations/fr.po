@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Two_Brothers-1.12\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-26 00:20 UTC\n"
+"POT-Creation-Date: 2022-07-26 00:24 UTC\n"
 "PO-Revision-Date: 2019-09-30 23:46+0200\n"
 "Last-Translator: Gérard Bodin <gbodin.qc@gmail.com>\n"
 "Language-Team: French <wesnoth@ml.free.fr>\n"
@@ -112,7 +112,7 @@ msgstr "Et remerciements particuliers à tous ceux que je n'ai pas mentionnés."
 
 #. [about]
 #: Two_Brothers_With_A_Third_Difficulty/_main.cfg:108
-msgid "Japanese Translation"
+msgid "Supplemental Japanese Translations"
 msgstr ""
 
 # rooting out est plus l'idée de retirer du coin comme on enlève une plante.
