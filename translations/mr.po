@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.5.9+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-06-19 05:11 UTC\n"
+"POT-Creation-Date: 2022-07-26 00:20 UTC\n"
 "PO-Revision-Date: 2009-01-11 17:07+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -93,6 +93,11 @@ msgstr ""
 #. [entry]
 #: Two_Brothers_With_A_Third_Difficulty/_main.cfg:103
 msgid "And special thanks to everyone else who I forgot to mention."
+msgstr ""
+
+#. [about]
+#: Two_Brothers_With_A_Third_Difficulty/_main.cfg:108
+msgid "Japanese Translation"
 msgstr ""
 
 #. [scenario]: id=01_Rooting_Out_a_Mage
@@ -247,8 +252,8 @@ msgstr ""
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/01_Rooting_Out_a_Mage.cfg:166
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/02_The_Chase.cfg:281
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:367
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:140
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:564
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:144
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:573
 msgid "Death of Arvith"
 msgstr ""
 
@@ -1118,8 +1123,8 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Two_Brothers_With_A_Third_Difficulty/scenarios/03_Guarded_Castle.cfg:376
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:144
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:568
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:148
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:577
 msgid "Death of Baran"
 msgstr ""
 
@@ -1824,18 +1829,22 @@ msgid "Tairach"
 msgstr ""
 
 #. [side]: type=Longbowman, id=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:113
+#. Note that "Reeve" is a rank rather than his first name:
+#. see: https://en.wikipedia.org/wiki/Reeve_(England)
+#. However, I didn't realize this when I wrote some lines that referred to him,
+#. so you might have to treat it as a name rather than a rank after all:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:117
 msgid "Reeve Hoban"
 msgstr ""
 
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:136
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:140
 msgid "Find out what is happening in the village"
 msgstr ""
 
 #. [objectives]
 #. EASY difficulty; avoid all vagueness in this hint:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:154
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:158
 msgid ""
 "Recruit or Recall some high-move units to be able to see as far as possible "
 "through the fog for approaching units."
@@ -1843,59 +1852,59 @@ msgstr ""
 
 #. [objectives]
 #. NORMAL difficulty; hint should be somewhat vague:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:158
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:162
 msgid "Watch your visibility with this fog."
 msgstr ""
 
 #. [objectives]
 #. HARD difficulty; hint should be even vaguer than on NORMAL:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:162
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:166
 msgid "Watch out!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:186
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:190
 msgid ""
 "There. The village is just across those hills, and already I see men coming "
 "to greet us!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:205
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:209
 msgid ""
 "No, they are fleeing from something. We must find out what is happening over "
 "there!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:210
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:214
 msgid "Men! Ready your arms!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:215
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:219
 msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:221
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:225
 msgid "Aye, I shall have to assign some of my men to scout for him!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:226
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:230
 msgid ""
 "I would suggest recruiting or recalling some footpads or horsemen for that "
 "task!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:240
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:244
 msgid "Tutorial: Baran"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:241
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:245
 msgid ""
 "Baran is now free for you to use to his full potential! Baran is a <i>Red "
 "Mage</i>. He is unique among your units in that he has a <i>neutral</i> "
@@ -1907,97 +1916,99 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:257
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:261
 msgid "We’re almost there!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:262
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:266
 msgid "That warlord! It’s..."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:267
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:271
 msgid "Yes, I’d know that face anywhere. Especially after what you did to it."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:272
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:276
 msgid "The warlord from Toen Caric."
 msgstr ""
 
 #. [message]: speaker=Tairach
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:277
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:281
 msgid "You! The mage who scarred me with fire! KILL THEM!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:282
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:286
 msgid "Let’s finish what we started, brother."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:287
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:291
 msgid "Aye. I’ll be the right arm, and you’ll be the left. Let’s go!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:326
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:330
 msgid "Hey look! It's Reeve Hoban!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:332
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:336
 msgid "One of Reeve Hoban's men!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:337
+#. I wrote this line before I realized "Reeve" was a rank rather than a name:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:342
 msgid "Hey Reeve! Look who showed up!"
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#. Reeve starts to say "Arvith" but then interrupts himself:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:384
+#. Reeve Hoban starts to say "Arvith" but then interrupts himself:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:389
 msgid ""
 "Hello Arv-wait, what's this? Why do you have a dark mage with you, Arvith?!"
 msgstr ""
 
 #. [message]: speaker=Arvith
 #. "Hold" as in "Hold up" or "Hold your fire" or "Hold your horses":
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:389
+#. (also this is another case where I wrote this text before realizing "Reeve" was a rank rather than a name)
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:395
 msgid ""
 "Hold, fair Reeve. This mage agreed to fight alongside me after I spared his "
 "life."
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:393
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:399
 msgid ""
 "Well, if you trust him, I guess that I can do so, as well. Anyways, I am "
 "glad that you have returned."
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#. Now that we lift some fog above, Reeve being able to see Arvith is probably literal now, although there's still a chance it's figurative:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:400
+#. Now that we lift some fog above, Reeve Hoban being able to see Arvith is probably literal now, although there's still a chance it's figurative:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:406
 msgid "I am glad to see you returned."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:407
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:413
 msgid "No gladder than I am to be here. But what has happened to Maghre?"
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:412
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:418
 msgid ""
 "Soon after you departed we were beset by orcs. With half the men of Maghre "
 "gone, we could not stop them."
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:417
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:423
 msgid ""
 "The orcish warlord aims to enslave us. We will not be able to hold out for "
 "much longer."
@@ -2005,89 +2016,92 @@ msgstr ""
 
 #. [message]: speaker=Reeve Hoban
 #. some archaic wording here; "fell" in the sense of "strong and cruel" or "eager and unsparing":
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:423
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:429
 msgid ""
 "Have a care, his men are fell fighters and have killed many. Very few remain "
 "who can bear arms, but I will send them to aid you in battle."
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:449
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:455
 msgid ""
 "Ungh... My time has come... Arvith... Baran... the defense of Maghre now "
 "falls to the two of you..."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:454
+#. another case where I wrote the line before realizing "Reeve" was a rank rather than a name:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:461
 msgid "No! Reeve!"
 msgstr ""
 
 #. [message]: speaker=Baran
 #. "this" = the killing of Reeve Hoban:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:460
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:467
 msgid "You orcs will pay for this!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:472
+#. another case where I wrote the line before realizing "Reeve" was a rank rather than a name:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:480
 msgid ""
 "...well, we can't sit around mourning Reeve while we are still beset by "
 "orcs... To the defense of Maghre, men!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:477
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:485
 msgid "Maybe we can take up his position for him?"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:482
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:490
 msgid "We shall see!"
 msgstr ""
 
 #. [message]: speaker=Reeve Hoban
 #. directed at Arvith:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:503
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:511
 msgid ""
 "Here, have some gold. You could probably put it to better use than I can."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:509
+#. another case where I wrote the line before realizing "Reeve" was a rank rather than a name:
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:518
 msgid "It appears Reeve left behind some gold in his keep!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:560
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:569
 msgid "Slay the Orcish Warlord to free the village"
 msgstr ""
 
 #. [objectives]
 #. EASY difficulty; avoid all vagueness in this hint:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:578
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:587
 msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
 msgstr ""
 
 #. [objectives]
 #. NORMAL difficulty; hint should be somewhat vague:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:582
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:591
 msgid "Have Arvith make use of Reeve Hoban’s keep."
 msgstr ""
 
 #. [objectives]
 #. HARD difficulty; hint should be even vaguer than on NORMAL:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:586
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:595
 msgid "Use Reeve Hoban’s keep."
 msgstr ""
 
 #. [message]: speaker=Tairach
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:627
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:636
 msgid "Today, you shall pay for disfiguring my face, mage!"
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:632
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:641
 msgid ""
 "I have already paid with the lives of my men at Toen Caric. It is time I "
 "righted that mistake and finished this once and for all."
@@ -2095,58 +2109,58 @@ msgstr ""
 
 #. [message]: speaker=Tairach
 #. directed at Arvith:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:673
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:682
 msgid "You again!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:678
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:687
 msgid "It is time for me to finish what Baran started!"
 msgstr ""
 
 #. [message]: speaker=Tairach
 #. directed at Muff Toras:
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:719
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:728
 msgid ""
 "Hey wait, weren't you one of that insignificant mage Rotharik's men? Weren't "
 "you supposed to be capturing Baran and bringing him to me?"
 msgstr ""
 
 #. [message]: speaker=Muff Toras
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:724
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:733
 msgid ""
 "Yes, that was originally the plan. However, I've changed my mind: I'd much "
 "rather kill you instead!"
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:740
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:749
 msgid ""
 "It is finished. We’ve defeated him at last. It was good to have you at my "
 "side, Baran."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:745
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:754
 msgid ""
 "So much has been destroyed. It will be difficult to repair all that the orcs "
 "and undead have wrecked. And they could come again."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:750
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:759
 msgid ""
 "I must go back to earning my living. But we have our amulets, little "
 "brother. If you are beset again, I will come."
 msgstr ""
 
 #. [message]: speaker=Arvith
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:769
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:778
 msgid "I don’t think we can rescue anyone from these villages. It is too late."
 msgstr ""
 
 #. [message]: speaker=Baran
-#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:774
+#: Two_Brothers_With_A_Third_Difficulty/scenarios/04_Return_to_the_Village.cfg:783
 msgid "I was too weak to protect these people. Oh, why did this happen to me?!"
 msgstr ""
 
