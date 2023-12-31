@@ -23,7 +23,7 @@ jobs:
       if: always()
       with:
         wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        flags: --progress --crossreference
+        flags: --collisions
     - name: Verify images
       uses: czyzby/wesnoth-png-optimizer@v1
       if: always()
