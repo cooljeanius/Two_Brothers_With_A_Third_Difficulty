@@ -1,3 +1,5 @@
+---
+
 name: lint
 
 on: [push, pull_request]
@@ -10,22 +12,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: Lint WML
-      uses: czyzby/wesnoth-wml-linter@v1
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        spellcheck: false
-        lint-flags: -K
-    - name: Verify resources scope
-      uses: czyzby/wesnoth-wml-scope@v1
-      if: always()
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        flags: --collisions
-    - name: Verify images
-      uses: czyzby/wesnoth-png-optimizer@v1
-      if: always()
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Lint WML
+        uses: czyzby/wesnoth-wml-linter@v1
+        with:
+          wesnoth-version: ${{ env.WESNOTH_VERSION }}
+          spellcheck: false
+          lint-flags: -K
+      - name: Verify resources scope
+        uses: czyzby/wesnoth-wml-scope@v1
+        if: always()
+        with:
+          wesnoth-version: ${{ env.WESNOTH_VERSION }}
+          flags: --collisions
+      - name: Verify images
+        uses: czyzby/wesnoth-png-optimizer@v1
+        if: always()
+        with:
+          wesnoth-version: ${{ env.WESNOTH_VERSION }}
